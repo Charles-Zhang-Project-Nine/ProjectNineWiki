@@ -1,5 +1,6 @@
 # Remote theme reference
 # https://github.com/Drassil/git-wiki-skeleton
+# Doc: https://www.drassil.org/git-wiki/main_page
 remote_theme: Drassil/git-wiki-theme@master
 
 # Basic Wiki Information
@@ -130,6 +131,7 @@ plugins:
 # They are optional, change them only if you need
 # Check wiki documentation to learn how they work
 #
+# Those hooks are mostly for adding contents to the wiki template itself, not to the HTML template in general
 
 inc_before_toc : 
 inc_after_toc : 

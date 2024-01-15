@@ -22,3 +22,4 @@ This is the official wiki for Project Nine.
 
 * [Issues](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/issues)
 * [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions)
+* [Guideline](https://wiki.nine.totalimagine.com/assets/blog/posts/2024/01/15/Project-Nine-Wiki-Community-Guidelines.html)
