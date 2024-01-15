@@ -1,4 +1,4 @@
-# ProjectNineWiki
+# Project Nine Wiki (WIP)
 
 Wiki and community hub.
 This is the official wiki for Project Nine.
