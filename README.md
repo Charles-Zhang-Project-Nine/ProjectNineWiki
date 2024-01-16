@@ -20,6 +20,10 @@ We don't need any images or videos - just text notes are good enough. All images
 Wiki and community hub.
 This is the official wiki for Project Nine.
 
+Table of Contents is a work-in-progress. For now, go to either [English](./en) version or [中文版本](./zh).
+
+Here are some additional useful links.
+
 * [Issues](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/issues)
 * [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions)
 * [Guideline](https://wiki.nine.totalimagine.com/assets/blog/posts/2024/01/15/Project-Nine-Wiki-Community-Guidelines.html)

@@ -137,7 +137,7 @@ inc_before_toc :
 inc_after_toc : 
 inc_before_content : 
 inc_after_content : 
-inc_before_footer : 
+inc_before_footer : styles.html
 inc_after_footer : features.html
 inc_before_head : 
 inc_after_head : snow.html
