@@ -1,0 +1,3 @@
+# Queen's Hidden Treasure
+
+The first queen hides away a mysterious treasure that will grant the finder enormous power. Kun VII found it, and it's a message: The world will end in some 3500+ years - she found it when she was an apparatus and doing testing with the Portkey (as a way of selection for the next Queen), and she told her 领路人 (Kun VI). The only other knowing this was probably Kun I. Kun I has long been living "outside this world" - only her body is preserved but for the most time she's not really with us (so the council operates with 5 chancellers most of the time).

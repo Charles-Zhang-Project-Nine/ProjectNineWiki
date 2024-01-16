@@ -1,0 +1,7 @@
+# Medalian Dressing Culture Survey
+
+This wiki entry deals with dressing culture pertaining to Ids Medalians, and may cover ranging from different countries to different time frames. When development is appropriate, we may split the entry into more specific region/time entries pertaining to specific countries. The key is to keep clothing related notes under this "Fashion and Clothing" category - untill when it's appropriate and we move the relevant notes to specific country's wiki entry.
+
+## Konralika
+
+* (Fashion, Tradition, Cloth, Value) Extended from the idea that Medala people generally dispute any external modification and unnecessary accessories - they tend to make their appearance as "unobsecured as possible" - the use of jewllries in this case is a very subtle art not to overthrow the focus of the subject - the person herself rather than the decorations. In that sense, Medalian people tends to wear as little as possible - or as little as necessary. Notice this is by no means that they don't use any sort of overhangs or decorations, it's just the use is highly selective. And natural skin color and good skin care is considered of primal importance. Naturally this is not the case for work class or those involved in other physical activities, e.g. military services - but this is especially true for casual, party, intimate, and home environments. Physical damage inflicted upon self and others in the body is generally considered very bad.

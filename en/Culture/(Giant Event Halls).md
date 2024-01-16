@@ -1,0 +1,5 @@
+# Giant Event Halls
+
+Tags: Architecture, Civic, Civilization, History, Culture, Medalian World
+
+* (Medala, dream inspired, idea, #20220526, Wiki, Cultural, Design, Element) Medalian event halls are gigantic - like football stadiums. As such, people hold handheld device (like virtual camera) to watch. (Remark, #20220530) This CANNOT possibly be attributed to the entire race - we should attribute this to a particular kingdom because that's more likely, since Medalian race is very diverse. Certainly it's a very notable feature for those who didn't know Medala and the diversity that much and just visited Ids for the first time and this can be a general trend - but the bottom line is it cannot be everything, otherwise it becomes the pop-culture mass-produced high-way systems and fast-food chain of Canada.

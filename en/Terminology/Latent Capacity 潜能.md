@@ -1,0 +1,7 @@
+# Latent Capacity 潜能
+
+Tags: Tellus World
+
+Non-rule based large-parameter-set machine-learn artificual neural network models have the feature/flaw that its knowledge and behaviors are NOT completely controlled by the designer - the larger the model, the large the latent capacity of the model. That is, a model may on the surface exhibit "expected" behaviors according to the superficial conditioning of the trainer, but since the training set and the exposure of the model has the potential to reach very abundant knowledge, there is hidden capacities of the model to exhibit types of behaviors that are intentionally prompted by the user or due to certain conditions. This is especially dangerous for models that have memories during runtime, in which case such memory capacities will inadvertly modify model behaviors towards directions that's completely irrevertible. Early models of ChatGPT showed this in the prominent example of "role-play" conversations in which the user asks the model to pretend to be something other than its formal self.
+
+Notice to the Krukians latent capacity is not a flaw but a feature - and that's why they especially value 后天教育 with adequate mentors after the base model for "fine tuning".

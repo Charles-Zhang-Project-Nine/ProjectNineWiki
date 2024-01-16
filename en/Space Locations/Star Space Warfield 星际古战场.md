@@ -1,0 +1,7 @@
+# Star Space Warfield 星际古战场
+
+Tags: Location, Phenomenon, The Wild Universe Space World
+
+<!--(Inspiration) Inspired by 20220521 unrecorded dream on ancient relic spaceship control and portal to another part of galaxy and entered a war field with lots of broken pieces. What we can see there is there are 3 gigantic kilometer-long spaceships broken and deserted in explosion and debris everywhere; Apparently not everything is completely destroyed and potentially useful resources can be harvested. It happens against the backdrop of empty space - there aren't any suns or planets in sight (I wonder in this case is there any visible global lighting? Is it completely dark?)-->
+
+Many places across the universe especially at borders of civilizations there are large war fields spanning 5-20 km in radius containing 残骸 of various spaceships, space fighters, space bombers, and various other space vehicle constructions. A typical impression of those is that the pieces of the ships scattered around in some circular fashion - however since there is no drag in space, I think more likely if any one of those are resulted from explosions, the pieces are likely to drift forever and have long been gone. In other words, the more likely scenario is that large pieces of those ships are intact.

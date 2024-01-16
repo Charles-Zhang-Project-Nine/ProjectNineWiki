@@ -1,0 +1,5 @@
+Tags: Tellus World, Country, Nation
+
+## Notes
+
+* Upon entering the space age, or at the edge of entering space age, it has severe competition with other countries to quickly explore and expand its terrotory to outer space. Automation only solves so many problems and there is still great need for manual labour. The surprising turn of event is the great reduction in cost in 航天仪器 due to trading and cultural exchange with Miah - now they just need people and investment to get this working. This country as advanced as it is doesn't have that many local population, so what can it do? Well, it collaborated with Kanit/Instellar Mission to use human trafficked population to do such dirty job - the government might not need to be fully aware of all the nitty gritties and it can work especially well if there is some sort of systematic corruption within certain departments.

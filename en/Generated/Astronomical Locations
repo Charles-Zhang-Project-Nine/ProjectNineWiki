@@ -1,0 +1,2770 @@
+# Star 0
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 0"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 0   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 1
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 1"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 1   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 2
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 2"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 2   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 3
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 3"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 3   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 4
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 4"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 4   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 5
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 5"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 5   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 6
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 6"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 6   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 7
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 7"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 7   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 8
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 8"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 8   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 9
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 9"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 9   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 10
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 10"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 10   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 11
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 11"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 11   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 12
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 12"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 12   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 13
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 13"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 13   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 14
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 14"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 14   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 15
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 15"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 15   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 16
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 16"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 16   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 17
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 17"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 17   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 18
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 18"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 18   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 19
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 19"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 19   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 20
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 20"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 20   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 21
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 21"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 21   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 22
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 22"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 22   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 23
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 23"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 23   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 24
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 24"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 24   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 25
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 25"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 25   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 26
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 26"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 26   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 27
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 27"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 27   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 28
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 28"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 28   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 29
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 29"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 29   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 30
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 30"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 30   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 31
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 31"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 31   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 32
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 32"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 32   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 33
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 33"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 33   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 34
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 34"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 34   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 35
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 35"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 35   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 36
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 36"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 36   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 37
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 37"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 37   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 38
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 38"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 38   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 39
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 39"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 39   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 40
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 40"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 40   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 41
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 41"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 41   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 42
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 42"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 42   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 43
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 43"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 43   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 44
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 44"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 44   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 45
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 45"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 45   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 46
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 46"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 46   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 47
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 47"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 47   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 48
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 48"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 48   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 49
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 49"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 49   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 50
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 50"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 50   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 51
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 51"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 51   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 52
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 52"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 52   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 53
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 53"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 53   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 54
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 54"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 54   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 55
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 55"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 55   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 56
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 56"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 56   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 57
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 57"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 57   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 58
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 58"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 58   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 59
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 59"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 59   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 60
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 60"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 60   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 61
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 61"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 61   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 62
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 62"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 62   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 63
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 63"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 63   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 64
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 64"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 64   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 65
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 65"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 65   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 66
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 66"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 66   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 67
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 67"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 67   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 68
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 68"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 68   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 69
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 69"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 69   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 70
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 70"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 70   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 71
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 71"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 71   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 72
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 72"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 72   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 73
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 73"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 73   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 74
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 74"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 74   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 75
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 75"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 75   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 76
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 76"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 76   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 77
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 77"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 77   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 78
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 78"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 78   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 79
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 79"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 79   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 80
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 80"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 80   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 81
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 81"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 81   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 82
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 82"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 82   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 83
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 83"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 83   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 84
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 84"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 84   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 85
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 85"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 85   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 86
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 86"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 86   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 87
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 87"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 87   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 88
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 88"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 88   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 89
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 89"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 89   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 90
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 90"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 90   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 91
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 91"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 91   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 92
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 92"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 92   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 93
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 93"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 93   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 94
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 94"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 94   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 95
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 95"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 95   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 96
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 96"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 96   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 97
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 97"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 97   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 98
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 98"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 98   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 99
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 99"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 99   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 100
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 100"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 100   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 101
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 101"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 101   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 102
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 102"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 102   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 103
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 103"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 103   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 104
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 104"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 104   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 105
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 105"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 105   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 106
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 106"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 106   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 107
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 107"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 107   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 108
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 108"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 108   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 109
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 109"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 109   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 110
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 110"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 110   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 111
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 111"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 111   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 112
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 112"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 112   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 113
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 113"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 113   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 114
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 114"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 114   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 115
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 115"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 115   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 116
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 116"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 116   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 117
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 117"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 117   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 118
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 118"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 118   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 119
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 119"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 119   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 120
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 120"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 120   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 121
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 121"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 121   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 122
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 122"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 122   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 123
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 123"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 123   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 124
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 124"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 124   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 125
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 125"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 125   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 126
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 126"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 126   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 127
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 127"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 127   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 128
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 128"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 128   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 129
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 129"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 129   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 130
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 130"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 130   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 131
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 131"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 131   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 132
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 132"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 132   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 133
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 133"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 133   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 134
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 134"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 134   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 135
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 135"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 135   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 136
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 136"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 136   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 137
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 137"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 137   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 138
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 138"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 138   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 139
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 139"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 139   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 140
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 140"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 140   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 141
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 141"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 141   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 142
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 142"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 142   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 143
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 143"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 143   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 144
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 144"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 144   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 145
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 145"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 145   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 146
+
+A location with significance.
+
+```celestia
+# Remark-20231002: Temporary generated
+# Just some location with significance
+Barycenter "Star 146"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 146   # [ly], As of 20230914, this is just a made-up number (placeholder)
+}
+```
+
+# Star 147
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+"Star 147"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 147   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "F2III" 	# Value is made up, in reference to our sun's G2V, pending finalization
+	AbsMag 5.6 				# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 148
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 148"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 148   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```
+
+# Star 149
+
+A star.
+
+```celestia
+# Remark-20231002: Temporary generated
+# This represents a blackhole
+"Star 149"
+{
+	# This number is made up, at the moment we are just aligning it with the Pescus galaxy location
+	RA 18.00003          		# [degrees], As of 20230924, this is just a made-up number (placeholder)
+	Dec -28.9999         		# [degrees], As of 20230914, this is just a made-up number (placeholder)
+	Distance 149   # [ly], As of 20230914, this is just a made-up number (placeholder)
+
+	# The size of a Star is usually calculated from its SpectralType and its Magnitude.
+	SpectralType "X" 	# X represents blackhole
+	AbsMag 5.6 			# Number is made up, in reference to our sun's 4.83, pending finalization
+}
+```

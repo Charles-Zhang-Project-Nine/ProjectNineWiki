@@ -1,0 +1,7 @@
+# Seeding
+
+Tags: Xiramu, Medalian World
+
+(Project Nine, Xiramu, Theory, Technology) Seeding: With the right condition, the necessary step is to "kick it start": generating a major impact to form the necessary compounds. Broadcasting and seeding life, that's the level of civilization beyond Type II - (per Kardashev scale, not a linear scale especially between Type II and Type III) - Stage 3 (Stage 1 is dyson sphere, stage 2 is space age with faster-than-light travel, stage 3 is colonization, stage 4 is space expansion, stage 5 is Type III; Notice Type III is generally not obtainable on a civilization scale due to issues with communication and information processing; Also extrapolating from this there should be a type iv - the universe scale, aka. Fepulans) - The Life Creating Stage. Xiramu is doing that, in many far galaxies. Notice their goal is not to replicating or creating new species, but simply to start/accelerate the natural process of life. (inspiration) https://www.inverse.com/science/impact-origin-of-life-hypothesis-explained/amp Life is still a natural process, but it can be stimulated.
+
+(PENDING DETAILS ON THE OPERATION, OTHERWISE MOVE THIS FROM "Technology" to "CULTURE")

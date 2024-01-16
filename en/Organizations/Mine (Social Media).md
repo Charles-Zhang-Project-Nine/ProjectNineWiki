@@ -1,0 +1,8 @@
+# Mine
+
+Tags: Tellus World, Organization
+
+* 2003.07.16 The Creation of Mine (And many other social media platforms). Tags: #Our World. Keywords: Mine, Peter Campbell, Chronicle, ShareTime, Nudle, AnimHub, Koete, Druidness. Status: First Draft.
+    * **Princeton, NJ, USA**: **Mine** was created as a college project by a 3rd year *computer science* student **Peter Campbell** in 2003, which later becomes the LARGEST social media platform on earth per user share across the globe by year 2020, which owns many subsidiaries including some high-tech entertainment companies including the famous movie/tv/original streaming platform (created in 1998, acquired by 2012) **Chronicle** (second to volume compared to personal streaming platform **ShareTime**, owned by **Nudle** from silicon valley; Another large platform worth mentioning is **AnimHub**, product of a japanese company **Koete** - meaning "Beyond"). The second largest social media platform by the time was **Druidess** (apparently favoured by females). The key feature of this app/platform is it's really life-involving - it provides BASIC tools for things from managing friends, share posts, control privacy and visibility settings, share images, chatting, event planning, news feeds, recommendations, ratings, school-wise friends (校园网), and many web apps and cool front-end technologies.
+    * (Note) A development of original in-world social media technology companies.
+    * (Remark) Consider move to company specific Wiki entry.
