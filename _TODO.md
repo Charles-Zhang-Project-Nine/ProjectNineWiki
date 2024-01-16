@@ -7,6 +7,10 @@ Should we use Discussion for ideas, advice, feature requests, and issues? Maybe.
 
 *This TODO document is for internal use.*
 
+Looks like we are going all text-based, which is good; And external media will be hosted seperately on image and digital asset hosts (at the moment we use Uploadcare and Cloudinary) - with some other cloud based services, we can make the wiki experience richer.
+
+License:
+
 - [ ] Replace license to Project Nine specific license
 
 Basic Template (based on git-wiki):
@@ -20,6 +24,12 @@ Basic Template (based on git-wiki):
 - [x] (20240115) LaTex rendering
     * Per https://github.com/TotalImagine-com/TotalImagine.com/commit/17acd5403cadf70737d7e14b49d7e85261e77748
     * See https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/pull/3
+
+Features:
+
+- [ ] Add celestia map on front page as welcome
+- [ ] Add babylon/playcanvas visualization for objects
+- [ ] Add navigation map visualization for city locations
 
 Issues:
 
