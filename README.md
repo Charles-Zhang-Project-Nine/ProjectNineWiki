@@ -1,3 +1,24 @@
+<style>
+    /* Blockquote style */
+    blockquote{
+        font-size:17px;
+        font-style: italic;
+        border: 1px solid #ed6555;
+        border-radius:4px;
+        padding: 20px;
+        margin: 1.5em 10px;
+        clear: both;
+    }
+    blockquote:before {
+        color: #2e87e7;
+        content: "⚠️";
+        font-size: 1.5em;
+        line-height: 0.2em;
+        margin-right: 0.1em;
+        vertical-align: 0.1em;
+    }
+</style>
+
 # Project Nine Wiki (WIP)
 
 <!-- 
@@ -16,6 +37,8 @@ In the future this wiki is subject based, instead of physically (or geographical
 The only potentially programmable feature is tags. Otherwise this wiki is not programmed.
 We don't need any images or videos - just text notes are good enough. All images should generally go to ~~either DigiKam or~~ Digital Assets (including P9 specific reference images).
 -->
+
+<blockquote>WARNING: Potential spoiler alert! Contents in this wiki cover objects, people and locations that otherwise play significant roles in stories of Project Nine. If you do not with to spoil the mysteries when reading novels, avoid contents that are tagged with <code>@Spoiler Alert</code> or marked with ⚠️ symbol.</blockquote>
 
 Wiki and community hub.
 This is the official wiki for Project Nine.
