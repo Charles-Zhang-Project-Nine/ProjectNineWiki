@@ -63,6 +63,9 @@ void EnumerateTopic(StringBuilder builder, string topicFolder, string parentPath
             .FirstOrDefault(l => !Regex.IsMatch(l, @"^(.*?): (.*)[^\.]$"));    // First non-meta-data
             // Remark: Current parsing scheme can encounter problems when the description paragraph contains ':', otherwise we require ending the line with a `.`
         
+        if (description == null)
+            WriteLine($"  Warning: Potentially incorrect formatting @{entryName}.");
+
         builder.AppendLine($"|{entryName}|{description ?? "Pending"}|[Link](./{parentPath}{topic}/{entryName.Replace(" ", "%20")})|");  // Relative to language landing page
     }
     builder.AppendLine();
