@@ -5,7 +5,9 @@ Initial Date: 2024-01-16
 
 This script generates plain text table of contents to STD OUT to serve as automatic replacement for top-level README for language specific landing page. The contents are saved to git explicitly providing benefit of explicit definitions.
 
-Remark: Current workflow generates most pages, then for WuGong we will manually generate a seperate output, then manually combine them all.
+Remark:
+* Current workflow flattens all subtopics under top-level topics.
+* The generated ToC can effectively serve as a replacement for P9 Rev1's (part of Legends of NFC) `(Entity) Names Collection.md`.
 
 Changelog:
 * v0.1: Basic folder enumeration
