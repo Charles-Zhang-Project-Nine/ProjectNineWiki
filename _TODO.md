@@ -15,6 +15,7 @@ Basic Template (based on git-wiki):
     * Per https://github.com/TotalImagine-com/TotalImagine.com/commit/035a2731e5d3c12e21c03e8beb0bbde0391d9715#diff-907a69846a1f6b238f1c43199984197d12c7eab26f3c3adcd45d628b26644950
     * https://www.drassil.org/git-wiki/customize
     * Most likely we just need to use one of the hooks to inject the script reference we need
+    * Done. See minimal configuration demo here: https://github.com/Charles-Zhang-Fork/git-wiki-skeleton/tree/Test-Mermaid-Manual
 - [ ] LaTex rendering
     * Per https://github.com/TotalImagine-com/TotalImagine.com/commit/17acd5403cadf70737d7e14b49d7e85261e77748
 
