@@ -20,7 +20,7 @@ We don't need any images or videos - just text notes are good enough. All images
 Wiki and community hub.
 This is the official wiki for Project Nine.
 
-Table of Contents is a work-in-progress. For now, go to either [English](./en) version or [中文版本](./zh).
+Table of Contents is a work-in-progress. For now, go to either [English](./en) version or [中文版本](./中文).
 
 Here are some additional useful links.
 
