@@ -8,8 +8,7 @@ This is the English version of the Wiki.
 
 ### (Interstellar) Trading Depots
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Architecture
 
@@ -35,8 +34,7 @@ This is the English version of the Wiki.
 
 ### Artificial Astronomical Objects
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Astronomy
 
@@ -220,8 +218,7 @@ This is the English version of the Wiki.
 
 ### Factions
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Fairy Tales, Fables, Legends, Myths, Stories
 
@@ -255,13 +252,11 @@ This is the English version of the Wiki.
 
 ### Food Ingredients
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Food Medicine
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### G-Bound (Star) & Planet Systems
 
@@ -356,13 +351,11 @@ Each file contains entire category.
 
 ### Inter-planetary Organizations
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Islands
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Lakes
 
@@ -450,8 +443,7 @@ Each file contains entire category.
 
 ### Medicine
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Moons
 
@@ -734,8 +726,7 @@ Each file contains entire category.
 
 ### Seas
 
-|Entry|Description|Link|
-|-|-|-|
+No contents available under this topic.
 
 ### Songs
 

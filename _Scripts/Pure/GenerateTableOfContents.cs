@@ -31,6 +31,11 @@ string GenerateToC(string folder)
             string refinedFormat = Regex.Replace(topicREADME, "^#", "####", RegexOptions.Multiline);
             builder.AppendLine($"{refinedFormat}\n");
         }
+        if (Directory.EnumerateFiles(topicFolder).Where(f => Path.GetFileName(f) != "README.md").Count() == 0)
+        {
+            builder.AppendLine($"No contents available under this topic.\n");
+            continue;
+        }
 
         builder.AppendLine("|Entry|Description|Link|");
         builder.AppendLine("|-|-|-|");
