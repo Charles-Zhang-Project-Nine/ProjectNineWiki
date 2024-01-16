@@ -1,5 +1,6 @@
 # Remote theme reference
 # https://github.com/Drassil/git-wiki-skeleton
+# Doc: https://www.drassil.org/git-wiki/main_page
 remote_theme: Drassil/git-wiki-theme@master
 
 # Basic Wiki Information
@@ -15,9 +16,9 @@ description: Official project nine wiki.
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: false
+show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
-show_wiki_pages_limit: 15
+show_wiki_pages_limit: 5
 # (boolean) Enable/disable blog feature
 blog_feature: true
 # (boolean) Enable/disable wiki posts list in sidebar (needs blog_feature enabled)
@@ -130,15 +131,16 @@ plugins:
 # They are optional, change them only if you need
 # Check wiki documentation to learn how they work
 #
+# Those hooks are mostly for adding contents to the wiki template itself, not to the HTML template in general
 
 inc_before_toc : 
 inc_after_toc : 
 inc_before_content : 
 inc_after_content : 
 inc_before_footer : 
-inc_after_footer : 
+inc_after_footer : features.html
 inc_before_head : 
-inc_after_head : 
+inc_after_head : snow.html
 inc_before_meta : 
 inc_after_meta : 
 inc_before_scripts : 
