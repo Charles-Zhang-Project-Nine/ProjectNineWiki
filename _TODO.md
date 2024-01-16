@@ -25,6 +25,10 @@ Basic Template (based on git-wiki):
     * Per https://github.com/TotalImagine-com/TotalImagine.com/commit/17acd5403cadf70737d7e14b49d7e85261e77748
     * See https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/pull/3
 
+Basic Layout:
+
+- [ ] Add Spoiler Alert (with custom CSS) on front page.
+
 Features:
 
 - [ ] Add celestia map on front page as welcome
