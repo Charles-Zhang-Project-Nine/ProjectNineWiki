@@ -7,7 +7,6 @@
         border-radius:4px;
         padding: 20px;
         margin: 1.5em 10px;
-        clear: both;
     }
     blockquote:before {
         color: #2e87e7;
