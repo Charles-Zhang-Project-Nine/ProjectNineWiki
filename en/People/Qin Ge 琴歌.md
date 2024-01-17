@@ -1,17 +1,21 @@
----
-Tags: "People, NFC, Tellus, #醉生楼艺人"
----
+# Qin Ge 琴歌
 
-# Overview
+Tags: People, NFC, Tellus, @醉生楼艺人
+Type: People
+Race: Tellurian
 
-Names: Qin Ge, 琴歌
+Pending.
+
+## Summary
 
 Original Name: 
 Arist Name: 琴歌
 Occupation: 酒姬
 Associated Location: Erolas
 
-# Description
+## Naming and Etymology
+
+Names: Qin Ge, 琴歌
 
 ## Background
 

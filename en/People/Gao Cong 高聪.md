@@ -1,13 +1,16 @@
----
+# Gao Cong
+
 Tags: People, Tellus, Chinnan/Kanit
----
+Type: People
 
-# Overview
+## Summary
 
-Names: Gao Cong, 高聪
-Former Lover(s): ..., Xiao Hena
-
-# Description
+||Character|
+|-|-|
+||(Portrait)|
+|English Name|Gao Cong|
+|Chinese Name|高聪|
+|Former Lover(s)|..., Xiao Hena|
 
 ## Human Trafficking
 

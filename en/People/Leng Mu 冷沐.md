@@ -1,13 +1,12 @@
----
-Tags: People, NFC, Tellus
----
+# Leng Mu
 
-# Overview
+Tags: People, NFC, Tellus
+Type: People
 
 Butler of the Leng Family.
 
 平川人（非东方人），体高肤黑，擅长运算。
 
-Names: Leng Mu, 冷沐
+## Naming and Etymology
 
-# Description
+Names: Leng Mu, 冷沐

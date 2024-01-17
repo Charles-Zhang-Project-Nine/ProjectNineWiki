@@ -1,8 +1,7 @@
----
-Tags: Organization
----
+# NFC Kirin 九层楼珺胤
 
-# Overview
+Tags: Organization
+Type: Organization
 
 九层楼珺胤是Tao Ye创立的服务于九层楼？？？（某基础设施例如电力能源）的企业。
 
