@@ -1,5 +1,5 @@
 /* Generate Table of Contents
-Version: v0.2
+Version: v0.3
 Author: Charles Zhang
 Initial Date: 2024-01-16
 
@@ -12,6 +12,7 @@ Remark:
 Changelog:
 * v0.1: Basic folder enumeration
 * v0.2: Fix topic README display; Automatically flatten sub-topics to top level
+* v0.3: Add entry count to topics; Allow README renaming for Topic
 */
 
 using System.Text;
@@ -20,26 +21,30 @@ using System.Text.RegularExpressions;
 // Main parsing logic
 void EnumerateTopic(StringBuilder builder, string topicFolder, string parentPath = "" /*Includes trailing `/`*/)
 {
+    // Skipping icon for now since we don't have it anyway
+
     string topic = Path.GetFileName(topicFolder);
     WriteLine($"Parsing {topic}...");
-    
-    // Skipping icon for now since we don't have it anyway
-    builder.AppendLine($"### {topic}\n");
+
+    int directSubItemCount = Directory.EnumerateFiles(topicFolder)
+        .Where(f => Path.GetFileName(f) != "README.md").Count(); // Exclude sub-topics and README
+    string topicHeader = topic;
 
     // Get topic description
     string topicREADMEFile = Path.Combine(topicFolder, "README.md");
     if (File.Exists(topicREADMEFile))
     {
         string topicREADME = File.ReadAllText(topicREADMEFile).TrimEnd();
+        topicHeader = Regex.Matches(topicREADME, "^# (.*)$", RegexOptions.Multiline).First().Value.TrimStart('#').Trim();
         string refinedFormat = Regex.Replace(topicREADME, "^# (.*)$", string.Empty, RegexOptions.Multiline).Trim(); // Replace the top-level header
         refinedFormat = Regex.Replace(refinedFormat, "^#", "####", RegexOptions.Multiline); // Further indent sections
         builder.AppendLine($"{refinedFormat}\n");
     }
 
+    builder.AppendLine($"### {topicHeader} (x{directSubItemCount})\n");
+
     // Skip table generation for empty topics
-    if (Directory.EnumerateFiles(topicFolder)
-        .Where(f => Path.GetFileName(f) != "README.md").Count() == 0
-        && Directory.EnumerateDirectories(topicFolder).Count() == 0)
+    if (directSubItemCount == 0 && Directory.EnumerateDirectories(topicFolder).Count() == 0)
     {
         builder.AppendLine($"No contents available under this topic.\n");
         return;
