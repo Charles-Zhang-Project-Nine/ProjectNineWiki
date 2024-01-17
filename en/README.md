@@ -4,13 +4,21 @@ This is the English version of the Wiki.
 
 ## Table of Contents
 
-<!-- This section will be automatically generated in a table format -->
+<!-- All contents below under this section will be generated from folder contents in table formats -->
 
-### (Interstellar) Trading Depots
+### (Interstellar) Trading Depots (x0)
 
 No contents available under this topic.
 
-### Architecture
+Including university programs, academic subjects, and also provide information on potential occupation and career paths.
+
+### Academics (x1)
+
+|Entry|Description|Link|
+|-|-|-|
+|Interstellar Studies|(Occupations)|[Link](./Academics/Interstellar%20Studies)|
+
+### Architecture (x4)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -19,42 +27,36 @@ No contents available under this topic.
 |Leng Family House (冷家)|Currently we have three design contendants:|[Link](./Architecture/Leng%20Family%20House%20(冷家))|
 |龟瓦琉璃院|又名：龟瓦琉璃院|[Link](./Architecture/龟瓦琉璃院)|
 
-### Art
+### Art (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |吟唱诗人|<!--(Comment) Different from "bards" in D&D😆-->|[Link](./Art/吟唱诗人)|
 |高明的化妆术|“化腐朽为神奇” (idea from) Handkerchief.|[Link](./Art/高明的化妆术)|
 
-### Artifact
+### Artifact (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Liu's Robotic Arm|First appeared in Canonical Core - it's a nice gesture and a gift from Zarna, who took the liberty and asked ??? to turn it into a robotic arm, with AI and nutrient absorption system. It's a welcoming gift to Tao Ye to join Zarna's earthly famly. The arm would be a friend, and it's a symbol that Zarna is also a friend.|[Link](./Artifact/Liu's%20Robotic%20Arm)|
 
-### Artificial Astronomical Objects
+### Artificial Astronomical Objects (x0)
 
 No contents available under this topic.
 
-### Astronomy
+### Astronomy (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |The New Calendar|新历纪法，以“新元年”为起始。|[Link](./Astronomy/The%20New%20Calendar)|
 
-### Biology
+### Biology (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |(Animal) Evolution Cladogram|(Things like this is very specific and should be handled in two aspects, both of which are independently maintained and serves different purpose: 1) This P9 Rev1 Text Wiki, which provides raw principle definition of all things; 2) Freehand/Scapple or other diagram formats, which provides straightforward one-glimpse view of current state of things.|[Link](./Biology/(Animal)%20Evolution%20Cladogram)|
 
-### Books
-
-|Entry|Description|Link|
-|-|-|-|
-|九层楼纪实|* **Jackie Liu**著，一本Visual Journal —— A compilation of *journalism*, *stories* (folktales), *photos* from Jackie Liu's personal experience into City Nine, with his experience, his introductions and presentations, his photos about many respects of City Nine. Jackie himself is a famous journalist. Jackie Liu其人的人物面貌和萧衎就差别很大了，完全不一样的风格，更像是明珠塔的设计者那样的正派（而没有萧衎的痞气）风格。|[Link](./Books/九层楼纪实)|
-
-### Buildings
+### Buildings (x3)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -62,19 +64,19 @@ No contents available under this topic.
 |Flying Fortress 空中堡垒|空中堡垒其实是一个compound，大部分时候多在云朵之中。（参见图片）|[Link](./Buildings/Flying%20Fortress%20空中堡垒)|
 |往生塔|* 别名：通天塔（Cautious“往生塔”名字太佛教）|[Link](./Buildings/往生塔)|
 
-### Calendars
+### Calendars (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Medalian Calender|As observed on Ids: there are roughly two seasons (some culture might divide it into 4, 8, or 12): Su (Summer), and Kyu (Winter).|[Link](./Calendars/Medalian%20Calender)|
 
-### CardGames
+### CardGames (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |车臣牌|例如粉色阵营（另有Lore名称）有很多可爱的角色卡牌。另有黑色阵营，绿色阵营，白色阵营，蓝色阵营，黄色阵营。|[Link](./CardGames/车臣牌)|
 
-### Cities
+### Cities (x8)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -87,13 +89,13 @@ No contents available under this topic.
 |Vulkham|Volkham is the capital the largest city of Zan, in-land near a river/lake; It is under the Province of Soisopol.|[Link](./Cities/Vulkham)|
 |西京|Xi Jing/Sykin is the capital of Kanit.|[Link](./Cities/西京)|
 
-### Civilizations
+### Civilizations (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |(Ancient) Eunòir|Ancient country with many city states and was a gathering place by Gods. Destoyred during middle ages because of wars and many 掠夺.|[Link](./Civilizations/(Ancient)%20Eunòir)|
 
-### Concepts
+### Concepts (x12)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -110,7 +112,7 @@ No contents available under this topic.
 |The Outer World|The "Outer Worlds" is roughly understood to contain philosophically two entities: The *parent world* that creates us, the *outer universe* that creates the parent world.|[Link](./Concepts/The%20Outer%20World)|
 |而立之年|<!--Consider merging this entry into the single treatise document (likely put in Legends of NFC) of **九层楼推荐价值**.-->|[Link](./Concepts/而立之年)|
 
-### Constructs
+### Constructs (x15)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -130,7 +132,7 @@ No contents available under this topic.
 |The Many Worlds|(Inpsired by the officialization of the idea regarding Dreams and magic in P9 world; Originally an independent RPG game-oriented 剑坊 design)|[Link](./Constructs/The%20Many%20Worlds)|
 |世界特异性|Those are some misc. very specific points/ideas, though if we investigate the underlying mechanism, they may be developed into whole systems, or at least other variants along the same line/style can be derived.|[Link](./Constructs/世界特异性)|
 
-### Continents
+### Continents (x11)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -146,7 +148,9 @@ No contents available under this topic.
 |Neyu|Continent on Ids. <!--Ids do not have continents, consider putting this onto Eva instead-->|[Link](./Continents/Neyu)|
 |Runkatul|---|[Link](./Continents/Runkatul)|
 
-### Countries
+Including countries and sovereign states (city states).
+
+### Countries of the World (x5)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -154,8 +158,9 @@ No contents available under this topic.
 |Haiti|Very small country. Dictatorship Monopoly Diplomacy like Singapore with tense battle-state relationship with neighbouring countries over territory issue.|[Link](./Countries/Haiti)|
 |Karado|* (20230723) 讲真这一路下来，也没啥特别有趣的见闻😂 感觉纽约挺适合购物，那地方是真的大（虽然脏乱差）。剧院也挺多，可是这种演出一场都要好几百RMB，也不是什么可以天天看的东西。相比之下还是想去日本，哈哈😂 A country, due to bottleneck of technology and culture - they had long history, used to be VERY violent and now democratic and peaceful, and they had EVERYTHING THEY COULD EVER HAVE, people have no desire to spend money any more. 民族气质：世间繁华不过如此。|[Link](./Countries/Karado)|
 |Sota|Sota is a developing country with large populations and abundant resources and mid-length history. It's the manufacturing center of the present world for Medalian space industry. Because of its nature as developing country, a lot of stuff there is NOT regulated and 山寨 industry is very robust. Cheap manufacturing of all kinds are readily accessible in all regions of the country - a lot of stuff would otherwise be not permitted in other countries.|[Link](./Countries/Sota)|
+|The Holy City|Recognized by all countries around the Appes Lake, The Holy City is a dedicated theo-shrine for (Tellurian) God (PENDING) and has supreme status over the sovereignty over many neighboring countries and more distant regions - in fact, the entire West continent recognizes God (PENDING) and thus The Holy City - even (China), which is governed by an atheist party. With less than 1000 permanent population and less than 120 acre of area, it's the smallest country in the world by population and by area.|[Link](./Countries/The%20Holy%20City)|
 
-### Cuisine Styles
+### Cuisine Styles (x4)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -164,7 +169,7 @@ No contents available under this topic.
 |沙县小吃|柳叶蒸饺，香菇小肉包。|[Link](./Cuisine Styles/沙县小吃)|
 |茶楼，广州点心|茶楼，广州点心：Inspired by 同聚楼|[Link](./Cuisine Styles/茶楼，广州点心)|
 
-### Culture
+### Culture (x5)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -174,38 +179,40 @@ No contents available under this topic.
 |Tellurian Lifestyle|It's apparently a big topic and varies geographically by country and throughout history and depends on religion, but in this entry we talk about some very high-level commonalities and in particular we may contrast it with other alien life forms.|[Link](./Culture/Tellurian%20Lifestyle)|
 |九层楼不收录菜式以及食物名单|（各国，主要参考顶层政治餐用，不收录原因有政治、替代、食材保护）|[Link](./Culture/九层楼不收录菜式以及食物名单)|
 
-### Deities
+
+
+### Gods and Deities (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Poladin (God of Sex)|Lv 25 Fepulans Player who's been playing in the Central Stage on and off for roughly 2500 years when measured in Tellurian years. When Poladin was on Tellus, he worked hard, spent 10 years on Tellus (occassionally "offline") and intimated half of (European) population to successfully implant the gene. His visit and a large number of names during its encounter are documented in the book "(European) Sex History ()", "源始记" and "爱神录". According to religious scriptures/traditions, there are legacies (which are apparently not true) that Poladin died in her last sex act, asending with her fellow Tellurians to the land of Euphoria in spiritual form (the reality is she just left Tellus and went back to play in Central Stage of Universe).|[Link](./Deities/Poladin%20(God%20of%20Sex))|
 
-### Descipline
+### Descipline (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |MIracle Studies|Miracle studies is THE most important study for the majority of Medalian civilization or it use to be traditionally. Nowadays due to the diverse development of various technologies it's no longer the most important but it's strategically critical and is still very crucial, especially in Capital.|[Link](./Descipline/MIracle%20Studies)|
 
-### Documents
+### Documents (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |九层楼核心价值|(A very short 10-page treatise on key founding values of NFC)|[Link](./Documents/九层楼核心价值)|
 |九层楼的规则|(Official rule book of NFC, might comprise many volumes of law books)|[Link](./Documents/九层楼的规则)|
 
-### Economics
+### Economics (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Cryptocurrency|Originally used specifically for TGC games and advocated by Interworld Economics, and designed by a guy named Satoshi Nakamoto, it soon became an interesting commodity throughout the Tellurian world. However, the original standard, aka. Ethereum is still the most prominent one.|[Link](./Economics/Cryptocurrency)|
 
-### Entities
+### Entities (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Traveller|穿梭在星际间的Knowledge Warehouse，行动非常缓慢。The uninformed might assume it's a single person, but actually it's a large size fully weaponized spaceship. 漫游者有分身万千会前往不同的地方采集和交换信息。漫游者的交易货币就是信息换信息。在漫游者内部的control deck里面有人形的agent但其实是控制员，而不是漫游者的本体——漫游者的本体就是那个飞船。|[Link](./Entities/Traveller)|
 
-### Events
+### Events (x6)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -216,29 +223,31 @@ No contents available under this topic.
 |对于冷家的抗议|(THIS SHOULD BE WRITTEN INTO AS PART OF CANONICAL)|[Link](./Events/对于冷家的抗议)|
 |第九号天柱爆炸事件|**第九号天柱**爆炸事件，也称**桐油湾爆炸/意外事件**，是指于[[（年月日）]]在九层楼第九号天柱底端发生的一起由于技术工人操作失误导致的机器运转超负荷造成重大爆炸事件。|[Link](./Events/第九号天柱爆炸事件)|
 
-### Factions
+### Factions (x0)
 
 No contents available under this topic.
 
-### Fairy Tales, Fables, Legends, Myths, Stories
+### Fairy Tales, Fables, Legends, Myths, Stories (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Story of Two Brothers|The story of two brothers provides a striking picture as to the creation of this universe and in particular, it involves (Buddhism) idea of reincarnation. The story is short and goes like this:|[Link](./Fairy Tales, Fables, Legends, Myths, Stories/Story%20of%20Two%20Brothers)|
 
-### Fashion and Clothing
+### Fashion and Clothing (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Medalian Dressing Culture Survey|This wiki entry deals with dressing culture pertaining to Ids Medalians, and may cover ranging from different countries to different time frames. When development is appropriate, we may split the entry into more specific region/time entries pertaining to specific countries. The key is to keep clothing related notes under this "Fashion and Clothing" category - untill when it's appropriate and we move the relevant notes to specific country's wiki entry.|[Link](./Fashion and Clothing/Medalian%20Dressing%20Culture%20Survey)|
 
-### Fighting Style
+### Fighting Style (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Kailai|Kailai /Kælayi/: Named after the controller. We need better name for this fighting style itself.|[Link](./Fighting Style/Kailai)|
 
-### Food
+Among all the entities in the Project Nine universe, this category might be the least fictional. In fact, for the purpose of Project Nine, I intend to provide a comprehensive list of all food in the universe.
+
+### Food (x7)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -250,34 +259,34 @@ No contents available under this topic.
 |Steamed Vermicelli Rolls|Steamed vermicelli rolls (肠粉 chángfěn) are definitely one of the must-orders of any dim sum meal! They are not only an expert choice in Guangzhou teahouses, morning tea restaurants, and street food night bazaars, but also a delicacy for many people's breakfasts in the rest of China’s middle-class restaurants. White sheets of rice starch are rolled with various fillings. Some popular choices are beef/pork, shrimp, even oyster, with mushroom, egg, lettuce, watercress etc. The rolls are steamed till all flavors blender together and then sprinkled with cooked peanut oil, raw soy sauce, chili sauce, or sesame paste depending on individual preferences.|[Link](./Food/Steamed%20Vermicelli%20Rolls)|
 |Yusheng|PENDING.|[Link](./Food/Yusheng)|
 
-### Food Ingredients
+### Food Ingredients (x0)
 
 No contents available under this topic.
 
-### Food Medicine
+### Food Medicine (x0)
 
 No contents available under this topic.
 
-### G-Bound (Star) & Planet Systems
+### G-Bound (Star) & Planet Systems (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |The Doma System|| Attribute | The Doma System ||[Link](./G-Bound (Star) & Planet Systems/The%20Doma%20System)|
 |The Sol System (X13)|Tellurian solar system containing two stars.|[Link](./G-Bound (Star) & Planet Systems/The%20Sol%20System%20(X13))|
 
-### Gadgets
+### Gadgets (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Flirting Indicator|<!--Unrcorded Dream-->|[Link](./Gadgets/Flirting%20Indicator)|
 
-### Galaxial Conolizations (Civilizations)
+### Galaxial Conolizations (Civilizations) (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Vinor Leader|Vinor 维诺; A faction of Kruks.|[Link](./Galaxial Conolizations (Civilizations)/Vinor%20Leader)|
 
-### Galaxies
+### Galaxies (x7)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -289,7 +298,7 @@ No contents available under this topic.
 |Milky Way|The system whichs hosts Earth and surprisingly is not that abundant in life forms compared to other planets. A neighbouring system is The Andromeda Galaxy. Milky Way is only significant in that it's one of the many galaxies that The Great Expedition path trepasses through.|[Link](./Galaxies/Milky%20Way)|
 |Pescus|Birth place of the Medalian people. Type A galaxy within the Simulatione. Pescus is the galaxy that contains the Doma system. Pescus is not within CSU.|[Link](./Galaxies/Pescus)|
 
-### Games
+### Games (x8)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -302,10 +311,6 @@ No contents available under this topic.
 |Reversi|Easier than chess and go, more advanced than 五子棋. Trick is to get corners and edges first.|[Link](./Games/Reversi)|
 |Star Commanders|1-6hr Board Video Game.|[Link](./Games/Star%20Commanders)|
 
-### Generated
-
-#### Generated
-
 Generated by:
 
 * 20231002 150 Star Locations.pnb
@@ -314,11 +319,13 @@ Generated by:
 
 Each file contains entire category.
 
+### Generated (x1)
+
 |Entry|Description|Link|
 |-|-|-|
 |Astronomical Locations|A location with significance.|[Link](./Generated/Astronomical%20Locations)|
 
-### Geography
+### Geography (x6)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -329,41 +336,49 @@ Each file contains entire category.
 |天柱|(CONSIDER MOVING TO "LOCATION")|[Link](./Geography/天柱)|
 |天罩|(CONSIDER MOVING TO "LOCATION")|[Link](./Geography/天罩)|
 
-### Holidays
+### Holidays (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Week of Learning|It's customary tradition since Queen I (and publication of 天下诏书) that there is a yearly Week of Learning where all walks of life stop their work and learn topics of greater concern: Civic, law, language, major science. Published by government for all ages. The idea is that this way people are informed and great achievements can be inspired from the general public. (The original motivation was that after certain age, the majority of population are dumb and just comfortable with staying as is, and that's why they fear progress and loss of job) This paid holiday is an encouragement but not an enforcement. Great governmental media use is necessary for it to be successful.|[Link](./Holidays/Week%20of%20Learning)|
 |中秋节|作为一个传统而且来历、传说和寓意都十分独特显著的节日，九层楼（以夏家和冷家为代表）自然会大力发扬。这也是“不成文”典庆的一例，全城热烈庆祝的传统。中秋节算是九层楼的大节之一。|[Link](./Holidays/中秋节)|
 
-### Industry
+This special path provides descriptions on all images used for en version of wiki. This is meta-wiki and for the wiki itself - do not include any entries about in-world entities for Project Nine here!
+
+### Images (x1)
+
+|Entry|Description|Link|
+|-|-|-|
+|Portrait-People-Qian_Qiu_Ye_Jun_Dai|![Her](https://res.cloudinary.com/dr4lq4gxg/image/upload/v1705373025/Project%20Nine%20Wiki/Portraits/People-Qian_Qiu_Ye_Jun_Dai_vd7a9l.jpg)|[Link](./Images/Portrait-People-Qian_Qiu_Ye_Jun_Dai)|
+
+### Industry (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Tellurian Airline Industry|Because of the existence of dinosources and dragons, the commercial airliners need to equip with some high-frequency disturbers which will keep such animals away from expected travel routes. But even so, accidents of collision can still happen.|[Link](./Industry/Tellurian%20Airline%20Industry)|
 |大型战斗、多用机甲 World Devourer|1. 近战可当Exoskeleton，远战或者运动用独自的飞行方式。区别于人类发明的Drone。|[Link](./Industry/大型战斗、多用机甲%20World%20Devourer)|
 
-### Instrument
+### Instrument (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Recorder|Recorder on Tellus, like Recorder on Earth, is a very traditional, long-history, easy-to-learn and use instrument for musical education and most importantly, creative musical improvasation. It might not have the most superb sounds on its own, but it's a very expressive way for musical expressions. Recorder is big in its adaption through Tellus and notably throughout the musical industry.|[Link](./Instrument/Recorder)|
 
-### Inter-planetary Organizations
+### Inter-planetary Organizations (x0)
 
 No contents available under this topic.
 
-### Islands
+### Islands (x0)
 
 No contents available under this topic.
 
-### Lakes
+### Lakes (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Appes Lake|Appes is the largest in-land lake of Axia.|[Link](./Lakes/Appes%20Lake)|
 
-### Languages
+### Languages (x6)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -374,33 +389,33 @@ No contents available under this topic.
 |Tellurian Languages|Tellus is a completely fictional planet in a completely fictional G-bound planetary system with two suns in a completely fictional universe; As such, its people are completely fictional and **speak completely fictional languages**. To avoid confusion with Earth languages, we must do the following:|[Link](./Languages/Tellurian%20Languages)|
 |The Medalian Language|An easy-to-learn artificial language introduced by the seventh Medalian Queen - Ora Sham Dζlinm - during the **4th Great Unification**. The words/speech are phonetic (sound-based), while the scripts/writing system is **semantical** (based on parts).|[Link](./Languages/The%20Medalian%20Language)|
 
-### Legal and Laws
+### Legal and Laws (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Robotic Marriage 机器人法案 - 机器人婚姻法|* (Social) The legalization of this is WHAT PEOPLE/ROBOTS wanted - just like lesibians and gays want their recognition. Ever since there is intelligent enough AI and there is intelligent enough AI robots, the affection between humans and robots are unavoidable. A very nice illustration of this is in the movie Megan 2023 (which can also be a fictional movie - albeit with a differet name - inside P9 universe that talks directly about romance between man and female woman). However, the events involving the publicity of Sobia made this to the front page of news - the dream-inspired character (Sobia) who works in a fast-food restaurant. Latter in her life some man wants to marry her, and they started seek legal solutions.|[Link](./Legal and Laws/Robotic%20Marriage%20机器人法案%20-%20机器人婚姻法)|
 
-### Legendary Entities
+### Legendary Entities (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Ex Calibre|“先圣之贤，贤者之精”。|[Link](./Legendary Entities/Ex%20Calibre)|
 
-### Legendary Objects
+### Legendary Objects (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Hyupeda (Portkey)|At the very beginning the creators left now-called "portkey" as a shrine - a direct gateway to access the innerworld (potentially with some restrictions). By inputting increasingly bigger amount of energy and change modes of interaction, one can achieve different visuals with it.|[Link](./Legendary Objects/Hyupeda%20(Portkey))|
 |瓦尔基丽雅 Valkyrja (Valkyria)|(THIS IS A LEGEND FOR SURE, BUT IT'S NOT A TRUE "LEGENDARY OBJECT" IN THE SENSE OF 神器; It's just a techno wonder)|[Link](./Legendary Objects/瓦尔基丽雅%20Valkyrja%20(Valkyria))|
 
-### Legends
+### Legends (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Dreams|Dreams (in the P9 world) are a bridge to THE alternative reality. In P9, people's dreams are consistent in a sense that the things they interact with ARE a reality that exists in the Dream Realm or the Astral Plane. They are however, highly individualized BUT can be connected with some internal or external help. (The original motivation for this is for people to be able to take things out from their dreams.)|[Link](./Legends/Dreams)|
 |Queen's Hidden Treasure|The first queen hides away a mysterious treasure that will grant the finder enormous power. Kun VII found it, and it's a message: The world will end in some 3500+ years - she found it when she was an apparatus and doing testing with the Portkey (as a way of selection for the next Queen), and she told her 领路人 (Kun VI). The only other knowing this was probably Kun I. Kun I has long been living "outside this world" - only her body is preserved but for the most time she's not really with us (so the council operates with 5 chancellers most of the time).|[Link](./Legends/Queen's%20Hidden%20Treasure)|
 
-### Locations
+### Locations (x20)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -425,7 +440,7 @@ No contents available under this topic.
 |瑞土（神舟瑞土）|* 瑞土，又称“神舟瑞土”，人心中世界的本源/发源/起源（感知），是一种超乎于物质，介于physics and perception(in terms of the parallelism of consciousness)直接天地本源的存在。没有固定的形态和位置，但是总体包含于世界的信息之中。（混沌）瑞土界是一种相对成形的环境，其微观的运作影响/对应着人间界宏观的事物——这一层近乎于**涪陵镜界**。不是以平行宇宙或者异次元空间或者同一宇宙遥远空间的方式存在，而只存在于人们的记忆和想象中。|[Link](./Locations/瑞土（神舟瑞土）)|
 |金安寺|又叫“静安寺”|[Link](./Locations/金安寺)|
 
-### Medalian Orders
+### Medalian Orders (x5)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -435,17 +450,17 @@ No contents available under this topic.
 |Mufansa De Medala|The Medalian Order.|[Link](./Medalian Orders/Mufansa%20De%20Medala)|
 |Xiramu|Xiramu is both a Medalian order and a Medalian species/race. For the most part Xiramus is a mysterious specific and live on its own but Xiramus do offer prophecy services to many different parts of the universe and some of them serve directly as military or political consultants.|[Link](./Medalian Orders/Xiramu)|
 
-### Media
+### Media (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |天地人|(Consider name change to make it more literative)|[Link](./Media/天地人)|
 
-### Medicine
+### Medicine (x0)
 
 No contents available under this topic.
 
-### Moons
+### Moons (x5)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -455,14 +470,14 @@ No contents available under this topic.
 |Osmuk|| Type | Moon ||[Link](./Moons/Osmuk)|
 |Yei|Yei is the smaller moon of Ids.|[Link](./Moons/Yei)|
 
-### Names
+### Names (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Leng (Last Name)|(China)-descdent, invented last name by Mr. Leng, used exclusived to identify members of the Leng family/clan. Not inherited biologically - those are 赠送姓. This is a NEW last name occuring only at "present-day NFC".|[Link](./Names/Leng%20(Last%20Name))|
 |Ora (Status Name)|Ora is a "status name" for all Medalian queens and used exclusively by Medalian queens.|[Link](./Names/Ora%20(Status%20Name))|
 
-### Nations
+### Nations (x21)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -488,7 +503,41 @@ No contents available under this topic.
 |UVSR|Country on Tellus.|[Link](./Nations/UVSR)|
 |Zan|Zan is a country in the region of Amamu.|[Link](./Nations/Zan)|
 
-### Oceans
+### Akhan (x0)
+
+No contents available under this topic.
+
+### Amajin (x0)
+
+No contents available under this topic.
+
+### Amasia (x0)
+
+No contents available under this topic.
+
+### Ikima (x0)
+
+No contents available under this topic.
+
+### Ikisia (x0)
+
+No contents available under this topic.
+
+### Nabiusa (x0)
+
+No contents available under this topic.
+
+### Neyu (x0)
+
+No contents available under this topic.
+
+### Occupations (x1)
+
+|Entry|Description|Link|
+|-|-|-|
+||Pending|[Link](./Occupations/)|
+
+### Oceans (x4)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -497,13 +546,12 @@ No contents available under this topic.
 |Kaniki|Ocean on Ids.|[Link](./Oceans/Kaniki)|
 |Nabiusa|Ocean on Ids.|[Link](./Oceans/Nabiusa)|
 
-### Organizations
+### Organizations (x38)
 
 |Entry|Description|Link|
 |-|-|-|
 |(Citadel of) Capital Investments (CCI)|Originally founded by Mr. Leng and Tao Ye, Citadel of Capital Investments is a key establishing pillar of many aspects of NFC and a large popular project funds based on NFC. It's the means of establishing large civic influence without going through the political path. Many of the otherwise large-scale "arbitrary" projects are funded directly or indirectly by CCI, including CofN Open Platform, and The Many Worlds gaming network. Surprisingly, as an "investment firm", CCI is not profit driven when it comes to private investments - a large portion of its allocable funds for private investments are channeled directly from capitals of very rich investors (kind of like angel investment) rather than rely on existing fund returns. In terms of trading, the biggest advantage of CCI is its quantitative strategies and arbitrage capacities, including the initial proprietary algorithms developed by Tao Ye before Mr. Leng funded NFC. CCI provides the initial funding and support for those long-term large-scale wholistic projects in the hope that over the long term the financial benefits are considerable - or even if not, the money is owned by various interested investors and the loss is assumed. Many of the prominent investors are associated with TLO and they are super rich. Notably, even not always with support from other stakeholders, just Tao Ye and Mr. Leng is capable of injecting funds directly because they are the main stakeholders. The company (as of "present day") currently employees around 3500 employees and manages funds and investment projects internationally. One key feature of CCI is it tries best to manage lots of stuff internally in order to minimize operational cost and reduce communication overhead and impose fine-grained control. Among other assets, CCI directly owns The Flying Castle, which is leased to NFC military.|[Link](./Organizations/(Citadel%20of)%20Capital%20Investments%20(CCI))|
-|(NFC Unnamed)|---|[Link](./Organizations/(NFC%20Unnamed))|
-|(Tellus) General Redes 通用雷德斯|---|[Link](./Organizations/(Tellus)%20General%20Redes%20通用雷德斯)|
+|(NFC Unnamed)|A game Company that is not for money but for a vision/value and hires people and give an interview to whoever applies. It's guaranteed to interveiw 3 common-folks (non-prioritized folks) every day, and have this job-guaranteed principle after interview - so interviews are usually extensive. However to prioritize candidates, there is besides a priority queue, a *comprehensive ranking systems*, e.g.:|[Link](./Organizations/(NFC%20Unnamed))|
 |BioFusion|BioFusion Inc. is a cutting-edge energy corporation that specializes in harnessing the power of photosynthesis to generate energy. Founded in 2032 by CEO Dr. Patricia Novak, a renowned molecular biologist, BioFusion's primary goal is to revolutionize the renewable energy sector by creating high-efficiency, eco-friendly energy solutions based on advanced genetic engineering techniques. The company's main product line includes specialized chlorophyll-based BioFusion batteries and flexible, soft-tissue battery packs designed for use in wearable technology.|[Link](./Organizations/BioFusion)|
 |Brainwave|Provides deep-brain scanning technology and maybe even APIs for processing such data and building ANN for analytical purposes, the physical device is like Elon Musk's NeuroLink. The software SDK part could be implemented by a child company.|[Link](./Organizations/Brainwave)|
 |DECO|* DECO - DE Engineering Consulting Operation, or Organisation De Consultation d'ingénieriE|[Link](./Organizations/DECO)|
@@ -511,6 +559,7 @@ No contents available under this topic.
 |Dreamscape|Original funders: Tao Ye, Vince Fan.|[Link](./Organizations/Dreamscape)|
 |Emily & James|Big (North america/NFC) adult culture (sex toys) and media entertainment (E&J animation) producer. Specialize in one show specifically: Emily & James. The funder of the company is said to be a couple - but only James (CEO) ever showed up in media, and never has one ever seen Emily. There are some very few selection of sex joys branded after E&J, designed by its own designers. The company focus on in-house production of its toys and animation, and focuses heavily on originality and consistency (in a sense, world building) of its show.|[Link](./Organizations/Emily%20&%20James)|
 |Euphora 醉生楼|青楼、妓院又或是江户时代吉原游廓的花魁艺伎游女，本是人类文明传统产物，却如今因为法律限制、使得明不敢开，背地也只能以极其简陋粗鄙的方式沦为完全服务于人们性欲的勾当。所谓风艺色性雅，（九层楼——更为传统的不妨不要沦为“现代重拾”而是自古流传的产物）的青楼文化之盛、文艺声色之盛行，强调的是其中的意境和传统积淀的模式。|[Link](./Organizations/Euphora%20醉生楼)|
+|General Redes 通用雷德斯|通用雷德斯公司，运输业前500强。其中比较出名的产品包括以太系列飞机。|[Link](./Organizations/General%20Redes%20通用雷德斯)|
 |Humanity Evolution Laboratory 人类进化研究所|(See sketch).|[Link](./Organizations/Humanity%20Evolution%20Laboratory%20人类进化研究所)|
 |Incollect (Online Platform)|2007.03.23 The Creation of Incollect. Tags: #Our World, #Modern World, #Information Age, #Technology.|[Link](./Organizations/Incollect%20(Online%20Platform))|
 |Instellar Mission 音斯太乐|Pending.|[Link](./Organizations/Instellar%20Mission%20音斯太乐)|
@@ -540,7 +589,7 @@ No contents available under this topic.
 |木火秋|**Basic Information**|[Link](./Organizations/木火秋)|
 |魅途国际|It's a Medalian coorp.|[Link](./Organizations/魅途国际)|
 
-### People
+### People (x80)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -555,10 +604,10 @@ No contents available under this topic.
 |Catherine Leng 冷雪映|(The idea is contrived. Pay attention how we can illustrate that point yet still make sure our story promotes what it wants to promote.)|[Link](./People/Catherine%20Leng%20冷雪映)|
 |Charles Zhang|<!-- I like it. This can be a self-contained small isolated piece that do not have much to do at all with the overarching concept of P9 and the Simulatione universe. -->|[Link](./People/Charles%20Zhang)|
 |Chumin|A human girl who's ugly and one of those days, she can realize her dream by changing her appearance completely - by becoming a Kruk (Cybrog), or thanks to Krukian technology, she can get a revamped body (cybernetics).|[Link](./People/Chumin)|
-|Cioi Phong 斯沃依冯|---|[Link](./People/Cioi%20Phong%20斯沃依冯)|
+|Cioi Phong 斯沃依冯|PResent day board member of 古昂, major stakeholder since the pre-war time.|[Link](./People/Cioi%20Phong%20斯沃依冯)|
 |CZ|A legendary acryonym-only figure. We mostly only "mention" his work and quotes his words if ever.|[Link](./People/CZ)|
-|Ding Zunan 丁祖楠|---|[Link](./People/Ding%20Zunan%20丁祖楠)|
-|Du Tian Yan 妒天颜|---|[Link](./People/Du%20Tian%20Yan%20妒天颜)|
+|Ding Zunan 丁祖楠|丁祖楠 is the friend of 萧衎 at high school.|[Link](./People/Ding%20Zunan%20丁祖楠)|
+|Du Tian Yan 妒天颜|A special character.|[Link](./People/Du%20Tian%20Yan%20妒天颜)|
 |Ela Bu|Ela Bu is Tao Ye post-time travel, due to special time period and his status, and more importantly, going back to an environment of the past which demands him to behave well while at the same time be around Zarna again - those all contributes to his great personality/behavior style change compared to when he was at NFC (both as a cityzen, as a teacher, and as a cult leader).|[Link](./People/Ela%20Bu)|
 |Eleven Baker|As a child star, Eleven was already main character in a dozen TV shows and have cameo appearance in a few movies. The TV shows she participated in were mostly family shows, see section on Childhood for more details. In movies, she always plays this kind of cool cute girls especially in a variety of sci-fi settings - and maybe a few family comedy. Her father was a popular sci-fi novelist.|[Link](./People/Eleven%20Baker)|
 |Ellen Baker|Ellen was a successful woman and in her later life a great advocate for many environment/social issues.|[Link](./People/Ellen%20Baker)|
@@ -625,13 +674,13 @@ No contents available under this topic.
 |苏简简|Notes:|[Link](./People/苏简简)|
 |萧母|（山东济南）人，姓（吴），名（尚香）。萧母是一个非常美丽并且elegant的女人，而且烧一手好菜，也懂得消费。|[Link](./People/萧母)|
 
-### Phenomenon
+### Phenomenon (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Euphthansia (Death from Sex)|Refers to the "first kind of natural death" from sex as implanted by Poladin - the God of Sex, around 3000 years ago in the land of "Europo". This entry contains description of both the death aspect and the spiritual aspect of it. The word "Euphthansia" specifically refers to the death aspect of it, while the word (Acension) refers to the spiritual aspect of it.|[Link](./Phenomenon/Euphthansia%20(Death%20from%20Sex))|
 
-### Planets
+### Planets (x19)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -655,25 +704,25 @@ No contents available under this topic.
 |Wilamuda|This is the planet between Puma and Ids in the Doma System.|[Link](./Planets/Wilamuda)|
 |Zai|Planet in Doma system.|[Link](./Planets/Zai)|
 
-### Plants
+### Plants (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |(Legendary) Merveil 荨草 麻草|(Design) We are completely NOT using the original meaning/inetity of the word "荨麻" (as in chinese), and this thing is exactly the legendary version of Mrijunna with similar effects except that in this fictional universe, it can connect one to god - or it can kill.|[Link](./Plants/(Legendary)%20Merveil%20荨草%20麻草)|
 
-### Products
+### Products (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Ether Series Airplane|Produced by General Redes; Including a suite of electrical planes.|[Link](./Products/Ether%20Series%20Airplane)|
 
-### Profession
+### Profession (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Drone Pilot|* The special performance shows of those very slink long-shaped vehicles above lake at NFC is performed by those drone pilots.|[Link](./Profession/Drone%20Pilot)|
 
-### Programming Languages
+### Programming Languages (x3)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -681,25 +730,29 @@ No contents available under this topic.
 |Formless|Pending|[Link](./Programming Languages/Formless)|
 |Prolog|Pending|[Link](./Programming Languages/Prolog)|
 
-### Programs
+### Programs (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |The Hanix|During the early stages of 推行 of the constructed Medalian langauge, there weren't enough language experts to write/speak in Medalian as the official language, also translation work of existing official documents and historical documents can take forever - as such the program Hanix <!--Pending analysis/making up word meaning--> is developed to provide automatic translations from most common source languages into Medalian as a standard reference. The program is very smart and can understand context and semantics to provide most culturally-appropriate translations.|[Link](./Programs/The%20Hanix)|
 
-### Provinces
+### Provinces (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Soisopol|Soisopol is one province of Zan, it contains the capital city Vulkham.|[Link](./Provinces/Soisopol)|
 
-### Publications
+Books, papers, academic papers, researches, etc.
+
+### Publications (x3)
 
 |Entry|Description|Link|
 |-|-|-|
-|天下诏书|天下诏书 serves/clarifies the following points:|[Link](./Publications/天下诏书)|
+|Bubbles Atowhin This World|The in-world counterpart (albeit not exact) on the (preliminary) discovery of ("atomic") structure FOR magic, by James Weller (pending renaming).|[Link](./Publications/Bubbles%20Atowhin%20This%20World)|
+|九层楼纪实|* **Jackie Liu**著，一本Visual Journal —— A compilation of *journalism*, *stories* (folktales), *photos* from Jackie Liu's personal experience into City Nine, with his experience, his introductions and presentations, his photos about many respects of City Nine. Jackie himself is a famous journalist. Jackie Liu其人的人物面貌和萧衎就差别很大了，完全不一样的风格，更像是明珠塔的设计者那样的正派（而没有萧衎的痞气）风格。|[Link](./Publications/九层楼纪实)|
+|天下诏书|An establishment to the Medalian world.|[Link](./Publications/天下诏书)|
 
-### Races
+### Races (x8)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -712,7 +765,7 @@ No contents available under this topic.
 |Netupalis|Original species from Eva. Split into two in the evoluationary chain, and one branch was brought to Ids.|[Link](./Races/Netupalis)|
 |Tellurians|(NOTICE THE CONSTRUCT OF TELLURIANS IS VERY DIFFERENT FROM REAL EARTH HUMANS, AND THE ENTIRE ANTHROPOLOGICAL HISTORY OF HOMO SAPIENS IS APPLIED TO MEDALIANS INSTEAD OF ON TELLUS; TO AVOID POTENTIAL CONFUSION, WE WILL NOT USE THE TERM HOMO SAPIENS IN EITHER ENVIRONMENT; IN FACT, WE SHOULD AVOID REFER TO TELLURIANS AS HUMANS BECAUSE THEY ARE NOT EXACTLY HUMANS - TELLURIANS ARE NPCs CONSTRUCTED BY AND FOR THE ENTERTAINMENT OF FEPULANS PLAYERS)|[Link](./Races/Tellurians)|
 
-### Religions
+### Religions (x7)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -724,36 +777,36 @@ No contents available under this topic.
 |Oneirosophy|A religion/tradition dedicated to dreams. As a religion, it have deities and 神化的个人——those were ancient dream masters (PENDING NAMES).|[Link](./Religions/Oneirosophy)|
 |爱宗 (God of Sex)|Ever since God of Sex left her blessing and left Tellus, a group of 虔诚 followers are touched by her great capabilities (Poladin not only have sex, as a Fepulans player, she's also capable of leaving many legacies behind, curing people of their disease, etc.) and her 事迹. E.g. she would have sex with the poor and the diseased and cure their disease. She teaches people how to love and care for each other.|[Link](./Religions/爱宗%20(God%20of%20Sex))|
 
-### Seas
+### Seas (x0)
 
 No contents available under this topic.
 
-### Songs
+### Songs (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |不晚|男子年少时爱上一个女孩|[Link](./Songs/不晚)|
 
-### Space Locations
+### Space Locations (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Star Space Warfield 星际古战场|<!--(Inspiration) Inspired by 20220521 unrecorded dream on ancient relic spaceship control and portal to another part of galaxy and entered a war field with lots of broken pieces. What we can see there is there are 3 gigantic kilometer-long spaceships broken and deserted in explosion and debris everywhere; Apparently not everything is completely destroyed and potentially useful resources can be harvested. It happens against the backdrop of empty space - there aren't any suns or planets in sight (I wonder in this case is there any visible global lighting? Is it completely dark?)-->|[Link](./Space Locations/Star%20Space%20Warfield%20星际古战场)|
 |The Center of Universe 宇宙中心|The universe has a center. There are two meanings to this: There is a geo-political center, or there is a physical center. Since the universe is generally perceived as boundless (even the Fepulans doesn't know what's the center of their universe due to the limit in travel speed) - the center of this universe is not reachable directly through the 3-dimenstional travels. This center is not the geometrical center of the universe - it's the playground for Fepulans players.|[Link](./Space Locations/The%20Center%20of%20Universe%20宇宙中心)|
 
-### Spaceships
+### Spaceships (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Phorudim|弗诺汀号 (Phorudim), from Fepulans -> Phorus -> Forudim, plus some holy elements. The first Medalian spaceship that initially set foot on Tellus during The Great Expedition.|[Link](./Spaceships/Phorudim)|
 
-### Sports
+### Sports (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |N+B+K (Dominance Hunt)|<!--|[Link](./Sports/N+B+K%20(Dominance%20Hunt))|
 
-### Stars
+### Stars (x3)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -761,7 +814,7 @@ No contents available under this topic.
 |Sol I|Sol (1)/Sol I is the first star of the Sol system.|[Link](./Stars/Sol%20I)|
 |Sol II|Sol (No.)2/Sol II is the second star of X13.|[Link](./Stars/Sol%20II)|
 
-### Systems
+### Systems (x4)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -770,14 +823,14 @@ No contents available under this topic.
 |NFC Cityzen ID|1. Raw Serial: A serial number is still useful and can occassionally be used, this is a number starting from 1.|[Link](./Systems/NFC%20Cityzen%20ID)|
 |Social Contribution Points|(PENIDNG MIGRATING IN NOTES FROM EARLIER DOCX;|[Link](./Systems/Social%20Contribution%20Points)|
 
-### Techniques
+### Techniques (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Minbi Eyok|An ancient form of close combat invented by **??? (八荒始人)** as a combat form againat Medalian body-shaped people, with emphasis on speed and ????? (以功为守，出其不意). There are two forms of this, one is called **Sacu (Sa3cu1)** (杀式), 招招致命, where the master of this form can usually easily take on 10 opponents at a time - each opponent would not take more than 3 hits to tackel; The second form is called **Univasa** (招式) and used in training and learning and competing with others, with a focus on disabling enemies through a varierty of techniques based on situation.|[Link](./Techniques/Minbi%20Eyok)|
 |Wireless Brain Control Technology|(CONSIDER MOVING TO "TECHNOLOGY")|[Link](./Techniques/Wireless%20Brain%20Control%20Technology)|
 
-### Technology
+### Technology (x34)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -816,13 +869,13 @@ No contents available under this topic.
 |漂浮岛|PENDING|[Link](./Technology/漂浮岛)|
 |超能源|PENDING|[Link](./Technology/超能源)|
 
-### Tellurian Gods
+### Tellurian Gods (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |God of Virtue - Tissana|Around 5000 years ago, and visited again around 2500 years ago. Founded the city state Samesto near ancient Eunòir in Axia (the middle seas).|[Link](./Tellurian Gods/God%20of%20Virtue%20-%20Tissana)|
 
-### Terminology
+### Terminology (x5)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -832,20 +885,20 @@ No contents available under this topic.
 |Will of The Queen|指的是天来女王所引领的价值观念。一个负责解读最初Ora Busa Lika（欧拉布萨里卡）的流派，负责监督和修正当前女王的行为，最主要的工作是参与下一任女王的[Ex Alixir](https://github.com/chaojian-zhang/ProjectNine_Rev1/discussions/26)的设计。所有[[后阁]][[服部]]成员均效忠于王的意志而不是当前女王，王的意志对天来种族负责，主要保护最基本的天来种族安危存亡。[[天来主星]]内部事务主要由后阁服部管理，一部分参考[[女王旨意]]为天来的发展出力。|[Link](./Terminology/Will%20of%20The%20Queen)|
 |西南地方|(PENDING MOVING THIS INTO "LOCATION")|[Link](./Terminology/西南地方)|
 
-### Traditions
+### Traditions (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |Traditional Medicine|Due to lack of precision like modern medicine, traditional medicine promotes a sense of "good overall healthy lifestyle" as the main way of eventual recovery.|[Link](./Traditions/Traditional%20Medicine)|
 |Vandentra-Medala-Alternative School (VMA) (School Type)|During the flourishing periods of Medalian-Tellurian cultural exchange, Medala started establish schools on Tellurian lands, the first of many which established with (country name ???, this is the country that Vandentra belongs to) is in Vandentra. This style of school was lattered called Vandentra-Medala-Alternative School. It's also called Shwangchwan Education, named after the first headmaster of the original Vandentra-Medala-Alternative School established in (North York) (a district of Vandentra).|[Link](./Traditions/Vandentra-Medala-Alternative%20School%20(VMA)%20(School%20Type))|
 
-### Transportation
+### Transportation (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Starship|Ever since the development of cheap and reusable rockets by private companies, rocket technology is no longer something controlled and only possibly by the states. 国家之间交通通过星舰 (which is a norm and cheaper than long distance airplane) 半个小时即可。|[Link](./Transportation/Starship)|
 
-### Tribes
+### Tribes (x15)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -865,7 +918,7 @@ No contents available under this topic.
 |Ukai|Pending|[Link](./Tribes/Ukai)|
 |Widow|Pending|[Link](./Tribes/Widow)|
 
-### Unions
+### Unions (x6)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -876,7 +929,7 @@ No contents available under this topic.
 |Sintia De Nabiusa|Pending|[Link](./Unions/Sintia%20De%20Nabiusa)|
 |Sintia De Nanlia|Pending|[Link](./Unions/Sintia%20De%20Nanlia)|
 
-### Units
+### Units (x12)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -893,35 +946,34 @@ No contents available under this topic.
 |Tellus 丈|Functionally equivalent to Earth Meter.|[Link](./Units/Tellus%20丈)|
 |Unitless Counters or Number Counters|Strictly speaking it's a language specific thing - in this case English/Alphabetica specific. Those are not units, but prefixes to denote numbers.|[Link](./Units/Unitless%20Counters%20or%20Number%20Counters)|
 
-### Villages & Towns
+### Villages & Towns (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Rivly|Rivly is a small village/town in Soisopol to the south of the capital city Vulkham of Zan.|[Link](./Villages & Towns/Rivly)|
 
-### WuGong
-
-#### 天下武功
-
 武功武侠、仙侠资产——原生“魔法”形式。
 
 综合Tellus, Keyi, 以及其他星球（统一combat系统）。
 
-#### Classification
+Classification:
 
-雜耍基本上就是物件操控，使用棍、環、球等道具做出各種動作。
+* 雜耍：基本上就是物件操控，使用棍、環、球等道具做出各種動作。
+* 体育：单人
+* 运动：多人
 
-体育：单人
+### 天下武功 (x0)
 
-运动：多人
+|Entry|Description|Link|
+|-|-|-|
 
-### 丹药
+### 丹药 (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |百补增力丸|一能强身壮骨，二能治疗跌打损伤；三能治闪腰岔气内外伤。|[Link](./WuGong/丹药/百补增力丸)|
 
-### 体育
+### 体育 (x8)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -934,25 +986,25 @@ No contents available under this topic.
 |競技疊杯|Pending|[Link](./WuGong/体育/競技疊杯)|
 |舞剑|Pending|[Link](./WuGong/体育/舞剑)|
 
-### 内功
+### 内功 (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |硬气功|Pending|[Link](./WuGong/内功/硬气功)|
 
-### 外功
+### 外功 (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |Minbi Eyok|Pending|[Link](./WuGong/外功/Minbi%20Eyok)|
 
-### 杂技
+### 杂技 (x1)
 
 |Entry|Description|Link|
 |-|-|-|
 |口技|口技的源由可以一直追溯至上古時代，人們為了狩獵，經常必須要模仿鳥獸的聲音來欺騙並引誘牠們以獵捕之，這種技巧慢慢地就發展成了現在的口技。|[Link](./WuGong/杂技/口技)|
 
-### 杂耍
+### 杂耍 (x9)
 
 |Entry|Description|Link|
 |-|-|-|
@@ -966,14 +1018,14 @@ No contents available under this topic.
 |轉筆|Pending|[Link](./WuGong/杂耍/轉筆)|
 |飞叉|Pending|[Link](./WuGong/杂耍/飞叉)|
 
-### 身法
+### 身法 (x2)
 
 |Entry|Description|Link|
 |-|-|-|
 |柔身术|提高人体柔软度的肢体锻炼。|[Link](./WuGong/身法/柔身术)|
 |缩骨术|传统“缩骨术”的效果主要通过身体素质、形体变化来实现——进阶的包括“缩骨功”可能涉及到骨头间隙的排紧，甚至是身体内脏的移动；都需要很多年、甚至从小的练习。|[Link](./WuGong/身法/缩骨术)|
 
-### 运动
+### 运动 (x1)
 
 |Entry|Description|Link|
 |-|-|-|

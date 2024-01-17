@@ -4,7 +4,13 @@ published: true
 
 # Project Nine Wiki Community Guidelines
 
-Project Nine wiki is physically-based, meaning it only describes physical existence and reality of things. For plot discussions, use [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions/categories/general).
+Project Nine wiki is physically-based, meaning it only describes physical existence and reality of things. For plot discussions, use [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions/categories/general).  
+Eventually, all contents from P9 Rev1 will be made available publically after they are cleaned up and have properly dealt with potential copyright issues.
+
+Plan for using posts:
+
+* We migh use Posts to post monthly e-magzine as a precursor to 九层楼志 magazine
+* Save images for Posts in dedicated Post folder on Cloudinary.
 
 ## Rules
 
@@ -14,6 +20,7 @@ Project Nine wiki is physically-based, meaning it only describes physical existe
 4. In general, each wiki entry should have only a single title/portrait image, and use other images very carefully and sparingly. 
 5. Use tables and mermaid diagrams to help format information better.
 6. Topics should be flat (single layer of topic hierarchy).
+7. All images need to be documented.
 
 ## Tips
 
