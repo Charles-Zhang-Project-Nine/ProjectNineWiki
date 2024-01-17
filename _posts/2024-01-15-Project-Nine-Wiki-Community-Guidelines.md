@@ -21,7 +21,7 @@ Plan for using posts:
 5. Use tables and mermaid diagrams to help format information better.
 6. Topics should be flat (single layer of topic hierarchy).
 7. All images need to be documented.
-8. Generally, avoid explicit interlinks between wiki articles - keep each entry self-contained and avoid depending on HTML features. This keeps the entire things more readable and manageable on the long term, and more convinient when printing as PDF.
+8. Generally, avoid explicit interlinks between wiki articles - keep each entry self-contained and avoid depending on HTML features. This keeps the entire things more readable and manageable on the long term, and more convinient when printing as PDF. On the other hand, we could use **bold** font to emphasize terms that relate to another wiki entry when it *first appears* in the wiki article.
 
 ## Tips
 
