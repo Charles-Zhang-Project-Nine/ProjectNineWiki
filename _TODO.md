@@ -24,6 +24,11 @@ Basic Template (based on git-wiki):
 - [x] (20240115) LaTex rendering
     * Per https://github.com/TotalImagine-com/TotalImagine.com/commit/17acd5403cadf70737d7e14b49d7e85261e77748
     * See https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/pull/3
+- [ ] (#Tentative, Proposal, #20240118) Create dedicated top-level navigation for Medalian languages
+    * The intention is to provide information on language proper, not a typical wiki entry for language - which we already have a folder for it.
+    * We need to think about how to structure this (should we also put one for Tellurian languages? What about Fepulans, Krukian and other alien languages?) Actually for Tellurian languages we should just mention in the main wiki and for special usages we can either create entry in main wiki or from sidebar level. For alien languages, we will worry about them when we have them.
+    * What are the implications between en/Chinese/Japanese version of the wiki?
+    - [ ] We will worry about this when Medalian languages are more developed.
 
 Basic Layout:
 
