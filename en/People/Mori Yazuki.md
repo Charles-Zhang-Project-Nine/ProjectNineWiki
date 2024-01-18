@@ -17,7 +17,7 @@ He grew up out of town and when he was young people fancy
 
 ||Character|
 |-|-|
-||![]()|
+||![Mori Yazuki](https://cdn.discordapp.com/attachments/1020909675367120907/1197605235196182539/allanwindmill_A_short_haired_energetic_looking_sharp-looking_ja_094f852c-252a-4119-aca6-6faa9fc8d38d.png?ex=65bbdfca&is=65a96aca&hm=eea162061d579f99d59567b4ee4874a26cc9a00aa5ac5f2c0a1fc5c36b99b5c9&)|
 |Name|Mori Yazuki|
 |Age|34|
 |Occupation|Principle(Bank)|
