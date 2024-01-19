@@ -4,8 +4,11 @@ published: true
 
 # Project Nine Wiki Community Guidelines
 
-Project Nine wiki is physically-based, meaning it only describes physical existence and reality of things. For plot discussions, use [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions/categories/general).  
-Eventually, all contents from P9 Rev1 will be made available publically after they are cleaned up and have properly dealt with potential copyright issues.
+Language: English
+
+Project Nine wiki is physically-based, meaning it only describes physical existence and reality of things. Unlike traditional online wikis, P9 wikis intend to provide a linear experience, and knowledge treatment is comprehensive and self-contained on all pages - in general, avoid unnecessary interlinking.  
+Eventually, all contents from P9 Rev1 will be made available publically after they are cleaned up and have properly dealt with potential copyright issues.  
+For plot discussions, use [Discussion](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/discussions/categories/general).
 
 Plan for using posts:
 
