@@ -9,11 +9,12 @@ Eventually, all contents from P9 Rev1 will be made available publically after th
 
 Plan for using posts:
 
-* We migh use Posts to post monthly e-magzine as a precursor to 九层楼志 magazine
+* We might use Posts to post monthly e-magazine as a precursor to 九层楼志 magazine
 * Save images for Posts in dedicated Post folder on Cloudinary.
 
 ## Rules
 
+0. In general, we treat English as official definitions.
 1. All wiki topics must be approved through formal discussion process.
 2. Use [Issues](https://github.com/Charles-Zhang-Project-Nine/ProjectNineWiki/issues) to fire issues on technical and design problems
 3. DO NOT PUT media or binary file in this repo! To serve images, use Cloudinary or Uploadcare (or other static image hosting solutions or CDNs). If you are a collaborator, you should have received an image invitation to a team folder on Cloudinary. Images should not exceed ***1MB***. Images names must follow convention `<category>-<entry_name>.jpg` (all lower case).
