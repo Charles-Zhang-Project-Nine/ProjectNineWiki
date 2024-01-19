@@ -29,6 +29,8 @@ Basic Template (based on git-wiki):
     * We need to think about how to structure this (should we also put one for Tellurian languages? What about Fepulans, Krukian and other alien languages?) Actually for Tellurian languages we should just mention in the main wiki and for special usages we can either create entry in main wiki or from sidebar level. For alien languages, we will worry about them when we have them.
     * What are the implications between en/Chinese/Japanese version of the wiki?
     - [ ] We will worry about this when Medalian languages are more developed.
+- [ ] Consider use this wiki template and some manual/scripted approach to migrate P9 task system here.
+    * We can still keep developing that task system solution, but for Project Nine purpose I think this wiki will suffice.
 
 Basic Layout:
 
