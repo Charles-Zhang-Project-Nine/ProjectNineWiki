@@ -21,7 +21,7 @@ So the final archetype would be **Japan** (with a free and liberal society, clos
 
 ## Geography
 
-* Capital: Chensh清释
+* Capital: Chensh/Kensh 清释
 
 ## Politics
 
@@ -33,7 +33,7 @@ Chinna: Religious/Dogmatic politics - Mandate of Heaven (神权天授). So it's 
 
 ## Geopolitical
 
-多岛；土著本土文化比较分散，大量从？？？（China)引入文字和文化和建筑。
+多岛；土著本土文化比较分散，大量从？？？ (China)引入文字和文化和建筑。
 
 NFC is established here.
 
