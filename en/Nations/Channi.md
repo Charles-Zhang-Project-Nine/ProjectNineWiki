@@ -1,10 +1,15 @@
-# Channi
+# Chinnan
 
-<!--(Canonical Minicore) It's not Chinnan (since it's 自由世界代表) that's hiding a teleportation device - it's a small country (依附Sabutan的) that's doing those dirty business.-->
+Tags: Country, Nation, Tellus World, @NFC
+Type: Country
+World: Tellus World
+Planet: Tellus
 
-Tags: Country, Nation, Tellus World
+## Naming and Etymology
 
-Names: Chinna -> China -> Channi (齐南)
+Original ideas: Chinna -> China -> Channi (齐南) -> Channit
+Evolvement: Channi -> Chinnan/Chinnah 清南 -> Channan 长南
+Current referral name: Chinnan
 
 ## Archetype 原型和期待
 
@@ -16,13 +21,13 @@ So the final archetype would be **Japan** (with a free and liberal society, clos
 
 ## Geography
 
-Capital: Chensh清释
+* Capital: Chensh清释
 
 ## Politics
 
-If Channi is a classical and old-power country, then it won't be very "friendly" to immigration - the people are pride, the population is saturated, and there is simply no need for this country to attract many long-term resident foreigners.
+If  is a classical and old-power country, then it won't be very "friendly" to immigration - the people are pride, the population is saturated, and there is simply no need for this country to attract many long-term resident foreigners.
 
-Also, if Channi is NOT a developing country but a developed country (since we want it to be like Taiwan as a cultural influencer) - it's NOT likely that many Channi population will migrate to Austinbu, or NFC (since NFC is founded on Austinbu) <!--Unless Chinese immigrants in our world - China is NOT a good place to live in, that's why people would want to move out; You don't hear American people immigrate into other developing countries that much: only developing countries immigrate into developed countries. This is not a hard problem: we just don't let NFC have that many Chinese/Japanese style architectures but be more modern; This also has another design implication: it's still fun for Zhang He to go to Chinna for its culture, but wouldn't it be more fun is Zhang He went to a developing country, so it's more "dark-side" of the society that he can see?-->.
+Also, if  is NOT a developing country but a developed country (since we want it to be like Taiwan as a cultural influencer) - it's NOT likely that many  population will migrate to Austinbu, or NFC (since NFC is founded on Austinbu) <!--Unless Chinese immigrants in our world - China is NOT a good place to live in, that's why people would want to move out; You don't hear American people immigrate into other developing countries that much: only developing countries immigrate into developed countries. This is not a hard problem: we just don't let NFC have that many Chinese/Japanese style architectures but be more modern; This also has another design implication: it's still fun for Zhang He to go to Chinna for its culture, but wouldn't it be more fun is Zhang He went to a developing country, so it's more "dark-side" of the society that he can see?-->.
 
 Chinna: Religious/Dogmatic politics - Mandate of Heaven (神权天授). So it's not just "communism", in fact we should steer away to make it not so apparent it's just simply a criticism of communism, and dig deep the rationale behind things. E.g. Leaders do believe they are doing a good thing.
 
@@ -32,8 +37,8 @@ Chinna: Religious/Dogmatic politics - Mandate of Heaven (神权天授). So it's 
 
 NFC is established here.
 
-## Namming
+## Notes
 
-(Channi or Chinna?)
+This is plot specific, and we should consider either making it into history/facts and put under corresponding wiki entities, or consider putting to Legends of NFC though practically we only talk about humans there, not countries and 传言 there.
 
-Channi -> Chinnan 清南 -> Channan 长南
+<!--(Correction, Reminder, @Confusion, @Canonical Minicore) It's not Chinnan (since it's 自由世界代表) that's hiding a teleportation device - it's a small country (依附Sabutan的) that's doing those dirty business.-->

@@ -8,4 +8,4 @@ Believes in a non-singular (but unnamable) God that created our entire universe 
 
 ## Names
 
-* Channi (Chinese): 通天教
+* Chinnan (Chinese): 通天教

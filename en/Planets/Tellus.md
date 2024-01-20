@@ -128,7 +128,7 @@ Among all political ideologies, only liberal capitalism and strongly-centrally c
 
 In terms of political ideologies, there are those few types: 1) Communism, 2) Socialism, 3) Capitalism, 4) Fascism (rare), 5) Marxism, 6) Democracy, 7) Dictatorship, 8) Libertarianism, 9) Modern conservatism, 10) modern liberalism, 11) Anarchism (classical, egoist), 12) Imperialism, 13) Religous.
 
-* Channi
+* Chinnan
 * Kanit
 * Qhinna (Chinna)
 * Gandi
