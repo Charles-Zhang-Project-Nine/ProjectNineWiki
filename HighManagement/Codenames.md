@@ -11,7 +11,7 @@ Meta-Projects:
 
 People:
 
-* `Emuri`
+* `Emura`
 
 Deprecated:
 
