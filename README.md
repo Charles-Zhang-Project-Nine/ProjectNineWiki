@@ -7,7 +7,6 @@
         border-radius:4px;
         padding: 20px;
         margin: 1.5em 10px;
-        clear: both;
     }
     blockquote:before {
         color: #2e87e7;
@@ -20,6 +19,8 @@
 </style>
 
 # Project Nine Wiki (WIP)
+
+<!-- To differentiate this with any other earlier wiki attempts, we will codename this specifically as: Project Nine Wiki 2024 (or "P9 Wiki 2024", or just "P9 Wiki"). -->
 
 <!-- 
 The Project Nine Wiki is dedicated to Project Nine in-world entities, and NOT *about* project nine or per *meta-project-nine* - aka. those things "about" project nine are considered management sort of notes.
@@ -54,12 +55,30 @@ For now, go directly to either [English Version](./en) or [中文版本](./中�
 ```mermaid
 timeline
 title Project Nine Wiki Timeline
+    2013
+        : Early misc. scattered unorganized notes
+        : Mostly ill-developed
+    2014
+        : Migrate to cloud note solutions
+        : Impossible to export, depends on network
+    2019?
+        : Tried Coach DB on local server for data
+        : Not editable elsewhere, requires too much running services
+        : Hard to migrate
     202?
         : Github repo enabled Wiki.
         : Hard to modify, impossible to program.
     202?
-        : Github wiki internalized inside Rev1 repo.
-    2024.01.15
-        : Online wiki hosted using Github Pages.
+        : Use Scrivener due to timeline needs
+        : Hard to modify as mass
+        : Timeline becomes un-useful at large scale
+        : Learnt the board, note, description, metadata, comment and timeline idea
+    2021:
+        : Github wiki extracted as dedicated repo
+    2022
+        : (Jan) Migrated now-deprecated ProjectNineWiki_Deprecated inside Rev1 repo.
+        : (Aug) It's evident a custom pure text-based light-weight script driven approach is desirable
+    2024
+        : (Jan) Online wiki hosted using Github Pages.
         : Allows contributor editing.
 ```

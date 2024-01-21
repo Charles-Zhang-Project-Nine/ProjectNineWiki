@@ -56,15 +56,17 @@ void EnumerateTopic(StringBuilder builder, string topicFolder, string parentPath
     foreach(string file in Directory.EnumerateFiles(topicFolder)
         .Where(f => Path.GetFileName(f) != "README.md")
         .OrderBy(f => f))
-    {   
+    {
         string entryName = Path.GetFileNameWithoutExtension(file);
         WriteLine($"  Parsing {entryName}");
 
         string[] contents = File.ReadAllLines(file);
         string description = contents
-            .Where(l => !string.IsNullOrWhiteSpace(l))
+            .Select(l => l.Trim())
+            .Select(l => Regex.Replace(l, @"<!--(.*?)-->", string.Empty)) // Replace comments
             .Where(l => !l.StartsWith('#')) // Skip headers
             .Where(l => !l.StartsWith('>')) // Skip quotes
+            .Where(l => !string.IsNullOrWhiteSpace(l))
             .FirstOrDefault(l => !Regex.IsMatch(l, @"^(.*?): (.*)[^\.]$"));    // First non-meta-data
             // Remark: Current parsing scheme can encounter problems when the description paragraph contains ':', otherwise we require ending the line with a `.`
         

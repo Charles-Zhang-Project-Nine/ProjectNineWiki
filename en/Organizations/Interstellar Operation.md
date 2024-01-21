@@ -1,12 +1,9 @@
----
-Tags: Organization
----
+# Interstellar Operation
 
-# Overview
+Tags: Organization
+Type: Organization
 
 Interstellar Operation: 音斯太乐
-
-# Description
 
 ## Interstellar Tellurian Trafficking
 

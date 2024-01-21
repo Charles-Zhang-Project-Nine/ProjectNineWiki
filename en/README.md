@@ -489,7 +489,7 @@ No contents available under this topic.
 |Audas|Audas is a planet.|[Link](./Nations/Audas)|
 |Austinbu|Immigration Country.|[Link](./Nations/Austinbu)|
 |Axi|Country on Ids.|[Link](./Nations/Axi)|
-|Channi|<!--(Canonical Minicore) It's not Chinnan (since it's 自由世界代表) that's hiding a teleportation device - it's a small country (依附Sabutan的) that's doing those dirty business.-->|[Link](./Nations/Channi)|
+|Chinnan|<!--(Canonical Minicore) It's not Chinnan (since it's 自由世界代表) that's hiding a teleportation device - it's a small country (依附Sabutan的) that's doing those dirty business.-->|[Link](./Nations/Chinnan)|
 |Country - 001|Highly religious, the whole nation believes in one branch (pending name) of the religion of Barakhan - strict in 戒严.|[Link](./Nations/Country%20-%20001)|
 |Gandi 甘地|Partly influenced by 西藏 - but let's make it a completely unique identity. It's a normal-sized country with ordinary setup, with about only 30-80% of population having religous belief. The religious system is quite flexible here, with influence coming from many different religions and traditions. One thing unique is that Buddhism took a special turn here since its original 传播 - the development of 甘传密宗 - 甘藏, which allows completely new methods of development and training of Buddhism practices. |[Link](./Nations/Gandi%20甘地)|
 |Hanuda|Country on Tellus.|[Link](./Nations/Hanuda)|
