@@ -73,7 +73,7 @@ title Project Nine Wiki Timeline
         : Hard to modify as mass
         : Timeline becomes un-useful at large scale
         : Learnt the board, note, description, metadata, comment and timeline idea
-    2021:
+    2021
         : Github wiki extracted as dedicated repo
     2022
         : (Jan) Migrated now-deprecated ProjectNineWiki_Deprecated inside Rev1 repo.

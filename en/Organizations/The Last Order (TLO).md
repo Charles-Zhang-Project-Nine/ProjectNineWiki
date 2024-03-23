@@ -38,6 +38,7 @@ Branches (Based on Fundamental Interpretations/Practices):
 
 * The Last Order 末者会 (Comment, #20230917) Always remembered it as such. Sounds good.
 * 中文名 末日秩序 (idea from) 20230916 walk and chat with Cai YuHong.
+* Publicly known only as the "Golden Circle Society" - only privately known as The Last Order. Officially and as a registered NGO/religion, the registered name is Opuatio (from Medalian "Perfection" + Latin "organizatio") 奥帕提奥/欧帕提.
 
 ## Archetypes
 
@@ -47,10 +48,16 @@ Branches (Based on Fundamental Interpretations/Practices):
 
 ## Symbol
 
+We may associate the official symbol to Ouroboros, or make Gao Cong's derivative use that. Because those two (a perfect circle vs 衔尾蛇) are actually quite different. It could work, for the general symbol is a "constructive framework and allows anything that's circular in form", and followers are free to interpret and decide their own badges.
+
 * (Symbolism) We definitely want to avoid any existing negative connotations with the symbol of The Last Order (a golden ring) - so far it seemed there is no well-established symbolic meaning for it (besides the gold  ring for marriage) and we are good. Here are a few other potential interpretations we find: the urge for certainty per "Greek" culture, also related to "God Chronos" (https://www.baunat.com/en/under-the-spell-of-the-gold-ring-engagement-rings-on-finger); commitment in marriage. Oh, did I mention that members of TLO who wear a real gold ring in their middle finger are anti-marriage?
 * (Design) The symbol of TLO might be desgiend related to this: https://en.wikipedia.org/wiki/Monism (The circled dot symbol) Well, our circle is very similar, but can we some how make it more like a circled dot😂 E.g. a large thicker outer circle with a thinner inner circle at 1/3 place, with 12 thin golden lines connecting the two. (History, Philosophy) Either way, the wearer of that symbol should indicate a belief in Panthism and Monism. (Comment) Similar philosophicla/political attributions that can be related and raised as discussions of what TLO followers do include https://en.wikipedia.org/wiki/Bright_green_environmentalism#Dark_greens,_light_greens_and_bright_greens (Comment, #20230806) Notice originally we conceived the circle as representing "purity" and "perfection", not as "diversification".
 * The Ring: Any circular form confirming to diameter ratio of 1/e is TLO. Members can customize at will and of often do. The single canonical ones are the pure colored un defactaled perfect forms of various colors (goden, red, blue).
 * Some famous people with ring customizations: 1) Catherine: Flying Ring; 2) Tao Ye: Medalian Circular Form Engraving. 
+
+## Practices
+
+(Might be only certain schools) Freedom to not eat. (idea from, #20240119) Warren's new interpretation on fasting.
 
 ## Ritual
 

@@ -8,6 +8,10 @@ Tags: People, Kanit
 
 (PENDING COMPLETE RENAMING: WE MIGHT DISREGARD ALL THOSE NAMES AND RECONSIDER AND RENAME ACCORDING TO KANIT CONVENTIONS AND LAST NAME RULES - 萧衎，萧何娜，张老爷，胡祖豪，赵倩雅，孙俊杰，赵世强，孔先生 and everyone related to Xiao Kan in general)
 
+## Naming and Etymology
+
+* 段今 (#恍惚状态, Dream Inspired 20240306)
+
 ## Archetype
 
 * Old/original imagined impression

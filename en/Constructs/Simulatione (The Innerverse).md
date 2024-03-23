@@ -1,20 +1,32 @@
-# Simulatione
+# Simulatione (The Innerverse)
 
-Tags: #Experimental, Concept, Entity, Fepulans World
+Tags: #Experimental, @Fepulans World, Concept, Construct, Entity, Universe
 
-(Fepulans) Simulatione装置是一个人造的mini黑洞（因为如果用捕获的黑洞太大了也难以控制），所以得降维。(Mini) 黑洞的Event Horizon是一种可编程的界限，黑洞内部有无限（可编程）可能。The difficult thing is not to send stuff in - it's literally a suck hole - but how to take stuff out: how to probe its states. There are certain states we can never know (like how's your favorite girl's first time who never liked you and is not talking to you any more).
+|||
+|-|-|
+|Identifying Name|Simulatione|
+|Other Names|The Innerverse|
+|Type|Concept, Construct|
+
+(Fepulans) Simulatione装置是一个人造的mini黑洞（因为如果用捕获的黑洞太大了也难以控制），所以得降维。(Mini)黑洞的Event Horizon是一种可编程的界限，黑洞内部有无限（可编程）可能。The difficult thing is not to send stuff in - it's literally a suck hole - but how to take stuff out: how to probe its states. There are certain states we can never know (like how's your favorite girl's first time who never liked you and is not talking to you any more). <!--(Remark, #20240311, Design) Instead of calling it a blackhole, which is a concrete solid construct existing in our universe and people with domain knowledge may find hard to accept, we should give it a dedicated alternative name, claiming it has properties similar to blackhole as we know it, but is nonethless a different thing that exists in their universe (aka. Fepulans). I.e. Make it clear it's an fictional concept, even though it's obviously derived from real world concept. Make it conceptually distinct.-->
 
 Only player information is managed in an object oriented manner, the rest of the simulation is just raw physical data, plus a bunch of rules that govern how they interact with each other.This is necessary,  because the simulation is fundamentally a bunch of mathematical equations, or fundamentally exists as mathematical constructs. This means depending on the specific information the operator is trying to query, it may or may not be straightforward to obtain such information. Of course, the information that is of particular research interest, or of player interest,  is always available because the necessary tools to access it have already been developed. The bottom line, for anything that is particularly new, or invented by the local inhabitants, The Fepulans will not have direct access to it,  or in other words, it is not possible to simply search for any specific given object. Also, it is worth noting that, as simulation-as-a-game goes, everything is physical based (like P9 The Matrix RTS) -  and there's no inherent concept of guilds, or ownership, or anything like that. As a physically based game, it can be rather “raw” - there is only player, and maybe shortcut ways to summon and construct materials.
 
 Despite some similarities of the overall structure and evolution of the Simulatione universe - and despite more closely borrowing entities like Earth and Milky Way directly in-world. The Simulatione iS NOT our universe and is logically and structurally fundamentally different - it's this structural and functional difference that gives reason to the in-world reality of various functionings of the Simulatione universe.
 
-## Naming/Etymology
+## Naming and Etymology
 
-Names: The Simulatione/Simulationia; (Medalian/Fepulans) Ayhne; (Tellurian) Alphaverse
+Also mentioned as "The inner universe" in earlier notes (consider replacing the word "Simulatione" with a medalian word to refer to the universe, and then refer to the body of my Project Nine text notes as Simulatione).
 
-(Medalian) "Eternal Fake" 
+* The Inner Universe/The Innerverse: Refers to the Simulatione. In contrast to "The Outer Verse"; Related to "Portkey".
+* The Simulatione/Simulationia; (Medalian/Fepulans) Ayhne; (Tellurian) Alphaverse
+* (Medalian) "Eternal Fake" -> "Eternal Flake": PENDING
+
+I am not satisfied with the naming.
 
 ## 20220308 Revised World Story Background (for Medalian and Earth) - Definitive
+
+<!-- (20240311) Consider moving this to Legends of NFC instead, for at the moment it's a draft story, rather than a definitive fact. -->
 
 <!--This note is to server one purpose: give us a clear understanding of the setting of the story.-->
 <!--Enumerate facts that are less subject to change here, Highlight keywords, re-collect important timeline events to Timeline note (as a standlone reference).-->
