@@ -168,3 +168,40 @@ Resource Cards: <!--Remark: Per ammendment 20211217; Instead of "generation", we
 
 * **Apple Tree**: Generates 1 **Apple** item each player turn. Cost: 250. Don't need to annouce generation; Physical cards for apples required.
 * **Mana Source/Mana Fountain**: Generates 1 **Mana** item each player turn. Unused manas can be carried to next round. Cost: 250. Don't need to annouce generation; Physical cards for apples required.
+
+## Dated
+
+### 20240324 Additional Game Rules
+
+Tags: #Dream Inspired
+
+(Was playing with Parcel, didn't get chance to organize below notes - lots of ideas below are self-contradictory and can be merged/cleaned/combined; Don't hesitate to simplify/delete some of stuff below in the future)
+(TOOD: Summarize key ideas)
+
+(Game, Experiment, Dream Inspired) 万智牌
+Generate annotated HTML of plain text play through to appreciate the depths and strategies of the game with rich combinational wisdoms.
+Kings Cards:
+`Actor+Action [Parameters]`
+Each actor is consisted of stats that's evaluated at each stage.
+
+No complicated in-action interruption. Just round based. Key strategical element is in initial draft of known characters and guessing others draft, and having your own unique best combinations - combinations is the key. Each game have limited hands deck. No randomness or a collective randomness from both players to draw from.
+Dream inspired.
+
+Skill cards grants specific characters additional skills (1-3).
+Announce: Both players can and must announce potential known effects of both players for current and next round.
+在没有亮牌之前，别人是不知道具体内容、但是知道尺寸的，亮牌之后通报才能效果显形，以牌为单位。每个角色有前线（包括已经打开和没有打开的）、Supply、以及共享牌。只有前线中已经打开的牌才可以作为攻击对象。可以有“英雄”即角色本身——通过装备卡来定制。每一回合角色可以做所有当前回合每个单位可能做的动作、并且抽取一次Supply或者Shared Stack，或者翻开任意数目前线牌。前线牌限制在1-10张。的确是越多越好——这就是名副其实比手牌、比积累。完全存在那种压倒性手牌的情况——王牌游戏的关键之一就是去哪里搜集这些合规的手牌。
+手牌来源包括Legends、比赛赠品、数字游戏正常获得、特殊场合获得（包括Gravity游戏）、重金购买。
+游戏结束条件：如果有英雄并且英雄死亡，某方所有主动角色单位死亡。
+角色技能在每一个回合内可以无限用，但是关键是可以使用的Quota往往有限制。
+每一局游戏模拟的是一场现实中N小时到N天的战斗。每来回一个回合相当于一天。所有魔法和行为基本都是可以在任何人做任何事情时使用。
+每一回合游戏开始前，双方可以禁止某些卡片，或者要求在Shared Stack中使用。每一回合开始时，只能中Shared Stack中或者自己的Supply中抽一张。故意前线的牌是不用打乱、并且回合开始时可以翻任意张的。
+Hand模拟出阵前线。Supply模拟己方后援供应。Shared模拟战场上的随机事件，mix在一起，全部给赢家（平局的情况就直接线性平分）。Environment/BattleField模拟环境底牌，是公开的、不限数目的、留给赢家的公共资源。每一张牌在设计时会标识到底可以在哪里出现。
+场上没有active手牌也算输。
+Hand deck的尺寸一般都是无限的，可以玩家在游戏开始前agree，一般1-10张。环境牌、赌注牌/死牌也是如此。补给牌等数目无限但是记得需要打乱才能用，也可游戏开始前限制最多。
+每一轮行动中每个角色的基础攻击一般可以无限次，但是注意攻击的时候对方也会自动反攻。如果抽补给牌则放弃一轮行动。每张可指挥角色会定义基本攻击和基本防御。攻击防御类型包括：物理魔法。进攻时会指明要进攻哪一个单位，但是对手可以立即指挥格挡单位。进攻命令不能停止。双方都没有指令则结束回合。
+存在不可指挥角色，也是放在己方前线手牌中。
+每一回合开始时玩家可选Take先手（可以猜拳），这个模拟了所有的defence等复杂行为。技能和主动行为只能在自己的回合操作。选择攻击是单体，没有替代防御之说。
+逃跑可以带走手牌和supply。
+攻击分为近身远程，前线具有简单阵列。只有第一排可以近身进攻对方第一排。防御参数完全可以通过血量来代替，物理魔法伤害也完全不必要区分。元素伤害也完全没必要区分。中毒和其他每回合自动伤害也完全没必要区分（在这种短期战场中如果有任何毒液伤害，算作立即伤害即可）。必须把前线所有士兵干掉才可以攻击英雄。英雄也是如此——必须从对方前线开始攻击。现实游戏中记录点数太麻烦——攻击时只有死或生，完全比较一个数字即Attack Point，也就是Hp，利用群攻可以增加这一数值。打完敌人后不损减。每一回合每个士兵只能进攻一次。
+前线只能安排基础牌即角色牌——不能安排效果牌包括武器和魔法牌。
+共享牌可以每回合抽一张，而supply牌抽一张就结束一个回合。
