@@ -64,6 +64,11 @@ If we are going to name after a famous person (like "Charles"), here is a potent
 2. From Chinese-like localization "张达“: Ten, Da (per "张力、tension) -> Tenjia
 3. Modification of original name, remove lastname and become known only by first name (3 YY), e.g. James Gatz to Gatsby.
 
+## Basic Information
+
+Parents: (Father) Tao Xianzhi 陶先知, (Mother) 曹又如
+Birth Place: PENDING
+
 ## Habits
 
 * No sex: Since age 20 Tao ceased sexual activities and gets more devoted to his own religious leadership activities. Though as it goes, The Last Order seems to encourage sexual activities between its members.
@@ -379,3 +384,4 @@ We are yet to come up with a story how he gained this insight, but what matters 
 * (Remark) A likely central conflict between Tao Ye and Kirin and thus the “unresolvable” story between the (as something better, more profound while still grounded on the personal level), could be that: Kirin will live forever (both practically and figuratively), while Tao Ye won’t - If the Adult Tao Ye is aware of this, then his work and effort in building something as “long-lasting” as Kirin would make more sense (e.g. a city, a book). This in term, if developed well, could evolve in the central theme of the whole work: life and death, limited time yet unlimited interest and unbounded universe, how we must die, and how we wish to live and persist forever, yet how life is ultimately boring (we may or may not want to stress the “lonely” aspect of it, since the goal of this work is to promote such an eternal love, while loneliness, despite a necessity, is a secondary).
 * (Todo) Extract certain events from this character to put into Events Timeline project.
 * (Todo) <!--Pending merging with `EID2020121901_K-P9KMD`-->
+* (Quote, idea) (Per The Last Order and his experience) If you believe in something strong enough, faith cannot be affected by others' words. (CZ)

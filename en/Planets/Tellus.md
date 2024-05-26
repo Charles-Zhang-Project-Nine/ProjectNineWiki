@@ -63,6 +63,133 @@ There were lots of wars (and continue to be) between most countries because *mos
 
 Homo Sapiens value traditions: oral traditions, labour traditions, and all sorts of things "our ancestors have done for thousands of years" (aka. more like "China"). Home Sapiens are very smart but they just invent things for fun and don't push for the usage and utility of it - they invented everything multiple times, each time with some modifications, more like crafts and never mass-produce things that much because they don't value things mass-produced; While Homo Erectus have "machines for everything" - literally - they have machines even for peeling skins of fruits and crack nuts. Homo Sapiens also criticize Homo Erectus as stealing their inventions (but put into better use).
 
+## Countries of Tellus
+
+Below list lists internationally recognized countries of modern day, excluding regions of political 争议. The default order is alphabetical by their English names:
+
+<!-- The table is populated procedurally and pending fill-in specifics -->
+|Country|Population|Continent|
+|Austinbu|23804977|Audas|
+|Chinnan|7380721|Axia|
+|Country 10|20525751|Audas|
+|Country 100|25768255|Audas|
+|Country 101|21247453|Audas|
+|Country 102|18330935|Arphyria|
+|Country 103|9244978|Ereb|
+|Country 104|8141944|Axia|
+|Country 105|19410923|Arphyria|
+|Country 106|3536027|Occinica|
+|Country 107|24289219|Audas|
+|Country 108|24311347|Audas|
+|Country 109|27319116|Audas|
+|Country 110|21645282|Audas|
+|Country 111|25556727|Audas|
+|Country 112|18496741|Arphyria|
+|Country 113|4887096|Occinica|
+|Country 114|16733962|Arphyria|
+|Country 115|24894119|Audas|
+|Country 116|8485522|Axia|
+|Country 117|21356497|Audas|
+|Country 118|29091988|Audas|
+|Country 119|8779891|Ereb|
+|Country 12|9192947|Axia|
+|Country 13|16089633|Arphyria|
+|Country 14|16211203|Arphyria|
+|Country 15|3393969|Occinica|
+|Country 16|16237540|Arphyria|
+|Country 17|4615855|Occinica|
+|Country 19|9143009|Ereb|
+|Country 2|20276316|Audas|
+|Country 20|20695327|Audas|
+|Country 22|18050812|Arphyria|
+|Country 23|22333137|Audas|
+|Country 24|22158432|Audas|
+|Country 25|18069704|Arphyria|
+|Country 26|22675006|Audas|
+|Country 27|19139692|Arphyria|
+|Country 28|17841920|Arphyria|
+|Country 29|18450498|Arphyria|
+|Country 3|17778780|Arphyria|
+|Country 31|26229031|Audas|
+|Country 32|27342129|Audas|
+|Country 33|7885056|Ereb|
+|Country 34|26818807|Audas|
+|Country 35|14764000|Arphyria|
+|Country 36|29415221|Audas|
+|Country 37|17697413|Arphyria|
+|Country 38|26730167|Audas|
+|Country 39|28569040|Audas|
+|Country 4|24403756|Audas|
+|Country 40|14675475|Arphyria|
+|Country 41|13664919|Arphyria|
+|Country 42|16733117|Arphyria|
+|Country 43|4067269|Occinica|
+|Country 44|23407008|Audas|
+|Country 46|4436978|Occinica|
+|Country 47|17801539|Arphyria|
+|Country 48|14781153|Arphyria|
+|Country 49|9464970|Axia|
+|Country 5|3966055|Occinica|
+|Country 50|21439018|Audas|
+|Country 51|19993041|Arphyria|
+|Country 52|9969735|Ereb|
+|Country 53|17326759|Arphyria|
+|Country 54|18085558|Arphyria|
+|Country 55|29582897|Audas|
+|Country 56|15254497|Arphyria|
+|Country 57|24243477|Audas|
+|Country 58|16504798|Arphyria|
+|Country 59|3394274|Occinica|
+|Country 6|28152379|Audas|
+|Country 60|8573470|Ereb|
+|Country 61|16896844|Arphyria|
+|Country 62|24813339|Audas|
+|Country 63|20627858|Audas|
+|Country 64|19489444|Arphyria|
+|Country 65|7261916|Ereb|
+|Country 66|20608880|Audas|
+|Country 67|6744155|Ereb|
+|Country 68|27129449|Audas|
+|Country 69|19457995|Arphyria|
+|Country 70|8767622|Ereb|
+|Country 71|16202344|Arphyria|
+|Country 72|22254266|Audas|
+|Country 73|14565462|Arphyria|
+|Country 74|15452264|Arphyria|
+|Country 75|7714669|Ereb|
+|Country 76|14213011|Arphyria|
+|Country 77|22311223|Audas|
+|Country 78|20835420|Audas|
+|Country 79|7396767|Axia|
+|Country 80|9887043|Axia|
+|Country 81|24446554|Audas|
+|Country 82|14630004|Arphyria|
+|Country 83|29382764|Audas|
+|Country 84|18726485|Arphyria|
+|Country 85|6835677|Axia|
+|Country 86|17012206|Arphyria|
+|Country 87|8361943|Ereb|
+|Country 88|26749409|Audas|
+|Country 89|24530019|Audas|
+|Country 9|8636214|Axia|
+|Country 90|25971415|Audas|
+|Country 91|7479295|Axia|
+|Country 92|18822069|Arphyria|
+|Country 93|6895590|Ereb|
+|Country 94|9098487|Ereb|
+|Country 95|13544786|Arphyria|
+|Country 96|4031645|Occinica|
+|Country 97|20214233|Audas|
+|Country 98|25923894|Audas|
+|Country 99|16470330|Arphyria|
+|Gandi|9864194|Axia|
+|Hanuda|8207681|Ereb|
+|Jor|3755641|Occinica|
+|Kanit|8516370|Axia|
+|Nerssua|9161643|Ereb|
+|Satsusha|7004314|Ereb|
+|Takensian|7379775|Axia|
+
 ## Countries & Geo-Politics
 
 (It's also very interesting, once we have a complete map setup, to see which countries have most reserve in which natural resources, through different geographical world map infographics; Before we have that, we might be able to temperarily do that in some Excel setup with only names)
