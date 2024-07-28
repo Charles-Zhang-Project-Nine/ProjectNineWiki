@@ -113,3 +113,5 @@ A social media video sharing platform for publishing non-edited (cutting is allo
 ## References
 
 * https://www.pcgamer.com/researchers-translate-brain-waves-into-scarily-accurate-images-using-stable-diffusion-ai/
+
+(Project Nine, Dreamscape, Resource, Concept, #20240526) "你看这样一个人在现实中可能普普通通，但他在自己的梦里可能呼风唤雨，所以不可从外表夺人，不可从现实中夺人。“在这个崭新的记梦内容产出的时代，一个真正的梦客可以产出超高质量的内容（就像是AI生成的视频），其效率是普通传统行业编辑和出版者无法抗衡的——依靠的就是DreamX(DX)设备。(idea from) 20240526梦。(Remark, #20240608) Dig further and see whether this idea can be further developed. E.g. maybe an entire dedicated novel could be written on it.

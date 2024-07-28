@@ -53,6 +53,7 @@ timeline
 ## Archetype
 
 * Taylor Swift: energetic, adaptable, and inventive. Bright on stage. Lively.
+* 王心凌 第一次爱的人
 * Avril Lavigne/Madonna: Avril Lavigne is an ISFP personality type. She is sensual and creative, often thinking outside the box. As an ISFP, she has deeply-held values which guide her decisions in life. She loves new experiences and would prefer to jump right in, instead of planning out every single detail. But the key idea is "叛逆".
 * Daisy from The Great Gatsby: She is beautiful and charming, but also fickle, shallow, bored, and (latter on Ids) sardonic.
 * The singer character from Super Dimension Fortress Macross (Macross F) movie.
@@ -81,6 +82,10 @@ After her 25-30s:
 (Might want to talk about how she joined various competitions/musical events during this period of time, which paves way for her future)
 
 * (College) (CONSULTING TAYLOR SWIFT ETC. EDUCATIONAL BACKGROUND FOR HER MUSICAL TALENTS TO GET NURTURED)
+
+## Entertainment Industry Appearance
+
+When EB is featured in movies, it's in her own movie - her own IP, her own show series. It's called Space Detective Agency, where she plays a sexy female detective solving space crimes. This is a multi-series feature-length TV drama like films. (idea from) Any self-respecting movie will NOT hire well-known stars for its cast. 就出戏. (idea from) 看到刘德华在香港警察片中那张脸就烦。
 
 ## Career
 
