@@ -305,3 +305,7 @@ Something you will never understand – it’s because she never had such emotio
     * Helen：性格不能说温和、那显得太柔弱了些，但至少是并不会显得凸出的。在日常举动和吃饭言谈间会显得纤巧却并不做作、过分缓慢/小心翼翼，表现自然。倒像是性格先天的那种天真积极。
         * 就是那种从未intentional修饰、先天自然、而随着年龄增长和学习和思维能力增强自然有一些些寻常的判断力和思考力。不会刻意显得“成熟“（Louis的朋友这一点都是这样，不会刻意有做作）。
     * ？？？
+
+## Dated
+
+* (20240805, #Dream Inspired) Character Profile - (Catherine, 展会) 展会那天的piece：地平线（单一有纹理黑线、上空非常浅灰度），空白（但不完全，是手工纸张）.

@@ -102,7 +102,7 @@ Whisper Organization Charts:
 
 ## References
 
-As time goes Whisper will become more and more a designed entity but occassionally it might be useful to remind ourselves of the original inspirations for Whisper and the original paths of development: 1) The "Love Zero" dream; 2) An early (or not-so-early) PDF layout drawing of the campus; 3) An imagination of a tri-campus.
+As time goes Whisper will become more and more a designed entity but occassionally it might be useful to remind ourselves of the original inspirations for Whisper and the original paths of development: 1) The "Love: Zero" dream; 2) An early (or not-so-early) PDF layout drawing of the campus; 3) An imagination of a tri-campus.
 
 Current design locations:
 

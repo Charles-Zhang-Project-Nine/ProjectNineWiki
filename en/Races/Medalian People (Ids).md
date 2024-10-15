@@ -17,6 +17,8 @@ Hereby we record biologies differ from base genus.
 * (Idea) Per canonical minocore: Their skin color reflects different magical properties due to harsh environment, and their skin color is affected by mood.
 * (Per calendar and number system) Medlian people 4 fingers. Count max to 9 using a single hand, use 8-base in computers.
 
+Blood color: Blue.
+
 ## Medalian Ancestry (Medalian Species Background)
 
 (CURRENT TODO) `[Wiki] Notes recollection on Medalian ancestry: part 4/4` <- Medalian world background: Medalian Ancestry (This piece) <- Full text search and recollect on "Central Stage of Universe" <- Ancestry Planet (Eva) (Wiki: Eva)
